@@ -29,20 +29,19 @@ with open('Pharma_Doctor_Payment_data.csv', 'rb') as csvfile:
 	for i in range(len(stateFiles)):
 		stateWriters.append(csv.DictWriter(stateFiles[i], fieldnames=fieldnames))
 		stateWriters[i].writeheader()	
-
-	print states.index('FL')
 	
 	i=0
 	for row in reader:
 		try:
 			stateWriters[states.index(row['Recipient_State'])].writerow(row)
 		except Exception as e:
-			print i
+			pass
+			#print i
 			#print e
 			#print row
 		i +=1
-		#if(i%1000 == 0):
-		#print i
+		if(i%100000 == 0):
+			print i
 		#print(str(i)+','+row['General_Transaction_ID'], row['Recipient_State'])
 				
 
