@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="style.css" rel="stylesheet" />
+    <meta charset=utf-8 />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-latest/cytoscape.min.js"></script>
+    <script>
+    $(function(){
+      $("#header").load('_header.html');
+      $("#footer").load('_footer.html');
+    });
+    </script>
+</head>
+
+
+<body>
+<div id="header" class=" container header"> </div>
+<div class="container text-justify lead">
+    <h3> DATA </h3><font size="4">
+        The payment data is collected annually and published online here: CMS government website. We are using published data from 2013. The CMS data has over ~2M entries for the entire nation and  ~200k for California alone. It contains doctor, hospital, and medical school names, their addresses, paying manufacturer name, transaction dollar amount, and the nature of the gift.  The initial data is given in CSV format and extracted using Ruby / Python scripts. The ~2M entry file is broken up into 50 state files.   
+</div>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet" />
+    <meta charset=utf-8 />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-latest/cytoscape.min.js"></script>
+    <script src="ca.js"></script>
+  
+  <script>
+    $(function(){
+      $("#header").load('_header.html');
+      $("#footer").load('_footer.html');
+    });
+    </script>
+</head>
+
+
+<body>
+<div id="header" class=" container header"> </div>
+</br>
+<div class="container lead"><font size="4">
+The graph edges have a gradient of colors from <font color="EBEB0A">yellow</font> to <font color="red"> red </font>which corresponds to a gradient of donated amount from $0 to $10000. Each edge is a directed edge with <font color="green">green</font> arrows pointing at the medical school node receiving donation from a pharmaceutical company.
+</br><small> Zoom in using scroll wheel or trackpad gesture.</small>
+</div>
+<div id="cy" class="container container-fluid"></div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script>
+	//callback(data){
+		//document.getElementById("demo").innerHTML = data;
+	//}
+	function getdata(callback){
+		var y="default";
+		$.getJSON("tx.cyjs", function(data) {
+    		console.log("Data Loaded");
+    		y = JSON.stringify(data);
+    		//callback(y);
+		});
+	}
+
+
+	
+	</script>
+</head>
+
+<body>
+	<button onclick="getdata()"> get data</button>
+	<div id="demo"> </div>
+</body>
+
+
+</html>

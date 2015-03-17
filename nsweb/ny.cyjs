@@ -1,0 +1,4376 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.1.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ "" ],
+    "shared_name" : "Sheet1",
+    "SUID" : 3380,
+    "name" : "Sheet1"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "3529",
+        "selected" : false,
+        "shared_name" : "Allergan Inc.",
+        "SUID" : 3529,
+        "name" : "Allergan Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3528",
+        "selected" : false,
+        "shared_name" : "St Lukes Roosevelt Hospital Center",
+        "SUID" : 3528,
+        "name" : "St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3527",
+        "selected" : false,
+        "shared_name" : "Pfizer Inc.",
+        "SUID" : 3527,
+        "name" : "Pfizer Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3526",
+        "selected" : false,
+        "shared_name" : "Montefiore Medical Center",
+        "SUID" : 3526,
+        "name" : "Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3525",
+        "selected" : false,
+        "shared_name" : "Olympus Corporation of the Americas",
+        "SUID" : 3525,
+        "name" : "Olympus Corporation of the Americas"
+      }
+    }, {
+      "data" : {
+        "id" : "3524",
+        "selected" : false,
+        "shared_name" : "Siemens Medical Solutions USA, Inc.",
+        "SUID" : 3524,
+        "name" : "Siemens Medical Solutions USA, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3523",
+        "selected" : false,
+        "shared_name" : "The Mount Sinai Hospital.",
+        "SUID" : 3523,
+        "name" : "The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3522",
+        "selected" : false,
+        "shared_name" : "Salix Pharmaceuticals, Ltd",
+        "SUID" : 3522,
+        "name" : "Salix Pharmaceuticals, Ltd"
+      }
+    }, {
+      "data" : {
+        "id" : "3521",
+        "selected" : false,
+        "shared_name" : "Eli Lilly and Company",
+        "SUID" : 3521,
+        "name" : "Eli Lilly and Company"
+      }
+    }, {
+      "data" : {
+        "id" : "3520",
+        "selected" : false,
+        "shared_name" : "MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3520,
+        "name" : "MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3519",
+        "selected" : false,
+        "shared_name" : "New York City Health & Hospitals Corporation",
+        "SUID" : 3519,
+        "name" : "New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3518",
+        "selected" : false,
+        "shared_name" : "The Mount Vernon Hospital",
+        "SUID" : 3518,
+        "name" : "The Mount Vernon Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3517",
+        "selected" : false,
+        "shared_name" : "AbbVie, Inc.",
+        "SUID" : 3517,
+        "name" : "AbbVie, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3516",
+        "selected" : false,
+        "shared_name" : "Novartis Pharmaceuticals Corporation",
+        "SUID" : 3516,
+        "name" : "Novartis Pharmaceuticals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3515",
+        "selected" : false,
+        "shared_name" : "Smith & Nephew, Inc.",
+        "SUID" : 3515,
+        "name" : "Smith & Nephew, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3514",
+        "selected" : false,
+        "shared_name" : "New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3514,
+        "name" : "New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3513",
+        "selected" : false,
+        "shared_name" : "Bayer HealthCare LLC",
+        "SUID" : 3513,
+        "name" : "Bayer HealthCare LLC"
+      }
+    }, {
+      "data" : {
+        "id" : "3512",
+        "selected" : false,
+        "shared_name" : "Otsuka America Pharmaceutical, Inc.",
+        "SUID" : 3512,
+        "name" : "Otsuka America Pharmaceutical, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3511",
+        "selected" : false,
+        "shared_name" : "Winthrop University Hospital Association",
+        "SUID" : 3511,
+        "name" : "Winthrop University Hospital Association"
+      }
+    }, {
+      "data" : {
+        "id" : "3510",
+        "selected" : false,
+        "shared_name" : "Valeant Pharmaceuticals International",
+        "SUID" : 3510,
+        "name" : "Valeant Pharmaceuticals International"
+      }
+    }, {
+      "data" : {
+        "id" : "3509",
+        "selected" : false,
+        "shared_name" : "University Of Rochester",
+        "SUID" : 3509,
+        "name" : "University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3508",
+        "selected" : false,
+        "shared_name" : "Carl Zeiss Meditec, Inc.",
+        "SUID" : 3508,
+        "name" : "Carl Zeiss Meditec, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3507",
+        "selected" : false,
+        "shared_name" : "New York Eye And Ear Infirmary",
+        "SUID" : 3507,
+        "name" : "New York Eye And Ear Infirmary"
+      }
+    }, {
+      "data" : {
+        "id" : "3506",
+        "selected" : false,
+        "shared_name" : "Edwards Lifesciences Corporation",
+        "SUID" : 3506,
+        "name" : "Edwards Lifesciences Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3505",
+        "selected" : false,
+        "shared_name" : "St. Jude Medical, Inc.",
+        "SUID" : 3505,
+        "name" : "St. Jude Medical, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3504",
+        "selected" : false,
+        "shared_name" : "Brookdale Hospital Medical Center",
+        "SUID" : 3504,
+        "name" : "Brookdale Hospital Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3503",
+        "selected" : false,
+        "shared_name" : "KARLSTORZ Endoscopy-America",
+        "SUID" : 3503,
+        "name" : "KARLSTORZ Endoscopy-America"
+      }
+    }, {
+      "data" : {
+        "id" : "3502",
+        "selected" : false,
+        "shared_name" : "Daiichi Sankyo Inc.",
+        "SUID" : 3502,
+        "name" : "Daiichi Sankyo Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3501",
+        "selected" : false,
+        "shared_name" : "Bristol-Myers Squibb Company",
+        "SUID" : 3501,
+        "name" : "Bristol-Myers Squibb Company"
+      }
+    }, {
+      "data" : {
+        "id" : "3500",
+        "selected" : false,
+        "shared_name" : "Amgen Inc.",
+        "SUID" : 3500,
+        "name" : "Amgen Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3499",
+        "selected" : false,
+        "shared_name" : "Roche Diagnostics Corporation",
+        "SUID" : 3499,
+        "name" : "Roche Diagnostics Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3498",
+        "selected" : false,
+        "shared_name" : "The New York And Presbyterian Hospital",
+        "SUID" : 3498,
+        "name" : "The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3497",
+        "selected" : false,
+        "shared_name" : "LSI SOLUTIONS INC",
+        "SUID" : 3497,
+        "name" : "LSI SOLUTIONS INC"
+      }
+    }, {
+      "data" : {
+        "id" : "3496",
+        "selected" : false,
+        "shared_name" : "University of Rochester",
+        "SUID" : 3496,
+        "name" : "University of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3495",
+        "selected" : false,
+        "shared_name" : "Sound Shore Medical Center",
+        "SUID" : 3495,
+        "name" : "Sound Shore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3494",
+        "selected" : false,
+        "shared_name" : "Ethicon Inc.",
+        "SUID" : 3494,
+        "name" : "Ethicon Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3493",
+        "selected" : false,
+        "shared_name" : "Westchester County Health Care Corporation",
+        "SUID" : 3493,
+        "name" : "Westchester County Health Care Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3492",
+        "selected" : false,
+        "shared_name" : "Wilson Cook Medical Incorporated",
+        "SUID" : 3492,
+        "name" : "Wilson Cook Medical Incorporated"
+      }
+    }, {
+      "data" : {
+        "id" : "3491",
+        "selected" : false,
+        "shared_name" : "New York Methodist Hospital",
+        "SUID" : 3491,
+        "name" : "New York Methodist Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3490",
+        "selected" : false,
+        "shared_name" : "Janssen Pharmaceuticals, Inc",
+        "SUID" : 3490,
+        "name" : "Janssen Pharmaceuticals, Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3489",
+        "selected" : false,
+        "shared_name" : "Lenox Hill Hospital",
+        "SUID" : 3489,
+        "name" : "Lenox Hill Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3488",
+        "selected" : false,
+        "shared_name" : "Covidien Sales LLC",
+        "SUID" : 3488,
+        "name" : "Covidien Sales LLC"
+      }
+    }, {
+      "data" : {
+        "id" : "3487",
+        "selected" : false,
+        "shared_name" : "AstraZeneca Pharmaceuticals LP",
+        "SUID" : 3487,
+        "name" : "AstraZeneca Pharmaceuticals LP"
+      }
+    }, {
+      "data" : {
+        "id" : "3486",
+        "selected" : false,
+        "shared_name" : "Incyte Corporation",
+        "SUID" : 3486,
+        "name" : "Incyte Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3485",
+        "selected" : false,
+        "shared_name" : "Millennium Pharmaceuticals, Inc.",
+        "SUID" : 3485,
+        "name" : "Millennium Pharmaceuticals, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3484",
+        "selected" : false,
+        "shared_name" : "Baxter Healthcare",
+        "SUID" : 3484,
+        "name" : "Baxter Healthcare"
+      }
+    }, {
+      "data" : {
+        "id" : "3483",
+        "selected" : false,
+        "shared_name" : "Ortho-Clinical Diagnostics, Inc.",
+        "SUID" : 3483,
+        "name" : "Ortho-Clinical Diagnostics, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3482",
+        "selected" : false,
+        "shared_name" : "Rochester General Hospital",
+        "SUID" : 3482,
+        "name" : "Rochester General Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3481",
+        "selected" : false,
+        "shared_name" : "Stryker Corporation",
+        "SUID" : 3481,
+        "name" : "Stryker Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3480",
+        "selected" : false,
+        "shared_name" : "Kaleida Health",
+        "SUID" : 3480,
+        "name" : "Kaleida Health"
+      }
+    }, {
+      "data" : {
+        "id" : "3479",
+        "selected" : false,
+        "shared_name" : "Regeneron Pharmaceuticals, Inc.",
+        "SUID" : 3479,
+        "name" : "Regeneron Pharmaceuticals, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3478",
+        "selected" : false,
+        "shared_name" : "Medline Industries, Inc.",
+        "SUID" : 3478,
+        "name" : "Medline Industries, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3477",
+        "selected" : false,
+        "shared_name" : "Medtronic Sofamor Danek USA, Inc.",
+        "SUID" : 3477,
+        "name" : "Medtronic Sofamor Danek USA, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3476",
+        "selected" : false,
+        "shared_name" : "DePuy Synthes Sales Inc.",
+        "SUID" : 3476,
+        "name" : "DePuy Synthes Sales Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3475",
+        "selected" : false,
+        "shared_name" : "NeuWave Medical, Inc.",
+        "SUID" : 3475,
+        "name" : "NeuWave Medical, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3474",
+        "selected" : false,
+        "shared_name" : "EMD Millipore Corporation",
+        "SUID" : 3474,
+        "name" : "EMD Millipore Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3473",
+        "selected" : false,
+        "shared_name" : "Covidien LP",
+        "SUID" : 3473,
+        "name" : "Covidien LP"
+      }
+    }, {
+      "data" : {
+        "id" : "3472",
+        "selected" : false,
+        "shared_name" : "Owens & Minor Distribution, Inc.",
+        "SUID" : 3472,
+        "name" : "Owens & Minor Distribution, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3471",
+        "selected" : false,
+        "shared_name" : "Nyu Hospitals Center",
+        "SUID" : 3471,
+        "name" : "Nyu Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3470",
+        "selected" : false,
+        "shared_name" : "NYU Hospitals Center",
+        "SUID" : 3470,
+        "name" : "NYU Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3469",
+        "selected" : false,
+        "shared_name" : "Becton, Dickinson and Company",
+        "SUID" : 3469,
+        "name" : "Becton, Dickinson and Company"
+      }
+    }, {
+      "data" : {
+        "id" : "3468",
+        "selected" : false,
+        "shared_name" : "Roswell Park Cancer Institute, Inc",
+        "SUID" : 3468,
+        "name" : "Roswell Park Cancer Institute, Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3467",
+        "selected" : false,
+        "shared_name" : "Boston Scientific Corporation",
+        "SUID" : 3467,
+        "name" : "Boston Scientific Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3466",
+        "selected" : false,
+        "shared_name" : "Nsuh @ Forest Hills",
+        "SUID" : 3466,
+        "name" : "Nsuh @ Forest Hills"
+      }
+    }, {
+      "data" : {
+        "id" : "3465",
+        "selected" : false,
+        "shared_name" : "Toshiba America Medical Systems, Inc.",
+        "SUID" : 3465,
+        "name" : "Toshiba America Medical Systems, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3464",
+        "selected" : false,
+        "shared_name" : "Medtronic USA, Inc.",
+        "SUID" : 3464,
+        "name" : "Medtronic USA, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3463",
+        "selected" : false,
+        "shared_name" : "North Shore University Hospital Homecare",
+        "SUID" : 3463,
+        "name" : "North Shore University Hospital Homecare"
+      }
+    }, {
+      "data" : {
+        "id" : "3462",
+        "selected" : false,
+        "shared_name" : "LifeCell Corporation",
+        "SUID" : 3462,
+        "name" : "LifeCell Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3461",
+        "selected" : false,
+        "shared_name" : "Purdue Pharma L.P.",
+        "SUID" : 3461,
+        "name" : "Purdue Pharma L.P."
+      }
+    }, {
+      "data" : {
+        "id" : "3460",
+        "selected" : false,
+        "shared_name" : "Beth Israel Medical Center",
+        "SUID" : 3460,
+        "name" : "Beth Israel Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3459",
+        "selected" : false,
+        "shared_name" : "Auxilium Pharmaceuticals, Inc.",
+        "SUID" : 3459,
+        "name" : "Auxilium Pharmaceuticals, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3458",
+        "selected" : false,
+        "shared_name" : "Albany Medical Center Hospital",
+        "SUID" : 3458,
+        "name" : "Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3457",
+        "selected" : false,
+        "shared_name" : "C. R. Bard, Inc. & Subsidiaries",
+        "SUID" : 3457,
+        "name" : "C. R. Bard, Inc. & Subsidiaries"
+      }
+    }, {
+      "data" : {
+        "id" : "3456",
+        "selected" : false,
+        "shared_name" : "Kingsbrook Jewish Medical Center",
+        "SUID" : 3456,
+        "name" : "Kingsbrook Jewish Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3455",
+        "selected" : false,
+        "shared_name" : "Luminex Corporation",
+        "SUID" : 3455,
+        "name" : "Luminex Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3454",
+        "selected" : false,
+        "shared_name" : "Long Island Jewish Medical Center Homecare",
+        "SUID" : 3454,
+        "name" : "Long Island Jewish Medical Center Homecare"
+      }
+    }, {
+      "data" : {
+        "id" : "3453",
+        "selected" : false,
+        "shared_name" : "Good Samaritan Hospital Medical Center",
+        "SUID" : 3453,
+        "name" : "Good Samaritan Hospital Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3452",
+        "selected" : false,
+        "shared_name" : "GAC International LLC",
+        "SUID" : 3452,
+        "name" : "GAC International LLC"
+      }
+    }, {
+      "data" : {
+        "id" : "3451",
+        "selected" : false,
+        "shared_name" : "Alexion Pharmaceuticals, Inc.",
+        "SUID" : 3451,
+        "name" : "Alexion Pharmaceuticals, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3450",
+        "selected" : false,
+        "shared_name" : "The Unity Hospital of Rochester",
+        "SUID" : 3450,
+        "name" : "The Unity Hospital of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3449",
+        "selected" : false,
+        "shared_name" : "CryoLife, Inc.",
+        "SUID" : 3449,
+        "name" : "CryoLife, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3448",
+        "selected" : false,
+        "shared_name" : "Biomet, Inc.",
+        "SUID" : 3448,
+        "name" : "Biomet, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3447",
+        "selected" : false,
+        "shared_name" : "Advanced Bionics, LLC",
+        "SUID" : 3447,
+        "name" : "Advanced Bionics, LLC"
+      }
+    }, {
+      "data" : {
+        "id" : "3446",
+        "selected" : false,
+        "shared_name" : "Suny Health Science Center At Syracuse",
+        "SUID" : 3446,
+        "name" : "Suny Health Science Center At Syracuse"
+      }
+    }, {
+      "data" : {
+        "id" : "3445",
+        "selected" : false,
+        "shared_name" : "Cook Incorporated",
+        "SUID" : 3445,
+        "name" : "Cook Incorporated"
+      }
+    }, {
+      "data" : {
+        "id" : "3444",
+        "selected" : false,
+        "shared_name" : "FUJIFILM Medical Systems USA, Inc.",
+        "SUID" : 3444,
+        "name" : "FUJIFILM Medical Systems USA, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3443",
+        "selected" : false,
+        "shared_name" : "LENOX HILL HOSPITAL",
+        "SUID" : 3443,
+        "name" : "LENOX HILL HOSPITAL"
+      }
+    }, {
+      "data" : {
+        "id" : "3442",
+        "selected" : false,
+        "shared_name" : "Cochlear Ltd",
+        "SUID" : 3442,
+        "name" : "Cochlear Ltd"
+      }
+    }, {
+      "data" : {
+        "id" : "3441",
+        "selected" : false,
+        "shared_name" : "Wright Medical Technology, Inc.",
+        "SUID" : 3441,
+        "name" : "Wright Medical Technology, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3440",
+        "selected" : false,
+        "shared_name" : "LUTHERAN MEDICAL CENTER",
+        "SUID" : 3440,
+        "name" : "LUTHERAN MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3439",
+        "selected" : false,
+        "shared_name" : "Bio-Rad Laboratories, Inc.",
+        "SUID" : 3439,
+        "name" : "Bio-Rad Laboratories, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3438",
+        "selected" : false,
+        "shared_name" : "Shire US Holdings",
+        "SUID" : 3438,
+        "name" : "Shire US Holdings"
+      }
+    }, {
+      "data" : {
+        "id" : "3437",
+        "selected" : false,
+        "shared_name" : "St. Francis Hospital",
+        "SUID" : 3437,
+        "name" : "St. Francis Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3436",
+        "selected" : false,
+        "shared_name" : "Alkermes, Inc.",
+        "SUID" : 3436,
+        "name" : "Alkermes, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3435",
+        "selected" : false,
+        "shared_name" : "Memorial Hospital For Cancer & Allied Diseases",
+        "SUID" : 3435,
+        "name" : "Memorial Hospital For Cancer & Allied Diseases"
+      }
+    }, {
+      "data" : {
+        "id" : "3434",
+        "selected" : false,
+        "shared_name" : "GE Healthcare",
+        "SUID" : 3434,
+        "name" : "GE Healthcare"
+      }
+    }, {
+      "data" : {
+        "id" : "3433",
+        "selected" : false,
+        "shared_name" : "THE MOUNT SINAI HOSPITAL.",
+        "SUID" : 3433,
+        "name" : "THE MOUNT SINAI HOSPITAL."
+      }
+    }, {
+      "data" : {
+        "id" : "3432",
+        "selected" : false,
+        "shared_name" : "United Therapeutics Corporation",
+        "SUID" : 3432,
+        "name" : "United Therapeutics Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3431",
+        "selected" : false,
+        "shared_name" : "B. Braun Medical Inc.",
+        "SUID" : 3431,
+        "name" : "B. Braun Medical Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3430",
+        "selected" : false,
+        "shared_name" : "Gilead Sciences Inc",
+        "SUID" : 3430,
+        "name" : "Gilead Sciences Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3429",
+        "selected" : false,
+        "shared_name" : "New York Hospital Medical Center of Queens",
+        "SUID" : 3429,
+        "name" : "New York Hospital Medical Center of Queens"
+      }
+    }, {
+      "data" : {
+        "id" : "3428",
+        "selected" : false,
+        "shared_name" : "Integra LifeSciences Corporation",
+        "SUID" : 3428,
+        "name" : "Integra LifeSciences Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3427",
+        "selected" : false,
+        "shared_name" : "Cheetah Medical, Inc.",
+        "SUID" : 3427,
+        "name" : "Cheetah Medical, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3426",
+        "selected" : false,
+        "shared_name" : "Seattle Genetics, Inc.",
+        "SUID" : 3426,
+        "name" : "Seattle Genetics, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3425",
+        "selected" : false,
+        "shared_name" : "Ellis Hospital",
+        "SUID" : 3425,
+        "name" : "Ellis Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3424",
+        "selected" : false,
+        "shared_name" : "BETH ISRAEL MEDICAL CENTER",
+        "SUID" : 3424,
+        "name" : "BETH ISRAEL MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3423",
+        "selected" : false,
+        "shared_name" : "Saint Barnabas Medical Center",
+        "SUID" : 3423,
+        "name" : "Saint Barnabas Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3422",
+        "selected" : false,
+        "shared_name" : "Cardinal Health, Inc.",
+        "SUID" : 3422,
+        "name" : "Cardinal Health, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3421",
+        "selected" : false,
+        "shared_name" : "Richard-Allan Scientific Company",
+        "SUID" : 3421,
+        "name" : "Richard-Allan Scientific Company"
+      }
+    }, {
+      "data" : {
+        "id" : "3420",
+        "selected" : false,
+        "shared_name" : "New York Downtown Hospital",
+        "SUID" : 3420,
+        "name" : "New York Downtown Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3419",
+        "selected" : false,
+        "shared_name" : "New York Hospital Medical Center Of Queens",
+        "SUID" : 3419,
+        "name" : "New York Hospital Medical Center Of Queens"
+      }
+    }, {
+      "data" : {
+        "id" : "3418",
+        "selected" : false,
+        "shared_name" : "MAIMONIDES MEDICAL CENTER",
+        "SUID" : 3418,
+        "name" : "MAIMONIDES MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3417",
+        "selected" : false,
+        "shared_name" : "QIAGEN Sciences LLC",
+        "SUID" : 3417,
+        "name" : "QIAGEN Sciences LLC"
+      }
+    }, {
+      "data" : {
+        "id" : "3416",
+        "selected" : false,
+        "shared_name" : "PENTAX of America, Inc.",
+        "SUID" : 3416,
+        "name" : "PENTAX of America, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3415",
+        "selected" : false,
+        "shared_name" : "Nshs @ Plainview",
+        "SUID" : 3415,
+        "name" : "Nshs @ Plainview"
+      }
+    }, {
+      "data" : {
+        "id" : "3414",
+        "selected" : false,
+        "shared_name" : "Spectrum Surgical Instruments Corp.",
+        "SUID" : 3414,
+        "name" : "Spectrum Surgical Instruments Corp."
+      }
+    }, {
+      "data" : {
+        "id" : "3413",
+        "selected" : false,
+        "shared_name" : "Mercy Hospital Of Buffalo",
+        "SUID" : 3413,
+        "name" : "Mercy Hospital Of Buffalo"
+      }
+    }, {
+      "data" : {
+        "id" : "3412",
+        "selected" : false,
+        "shared_name" : "ZOLL Circulation Inc",
+        "SUID" : 3412,
+        "name" : "ZOLL Circulation Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3411",
+        "selected" : false,
+        "shared_name" : "St Peters Hospital",
+        "SUID" : 3411,
+        "name" : "St Peters Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3410",
+        "selected" : false,
+        "shared_name" : "University Hospital Of Brooklyn",
+        "SUID" : 3410,
+        "name" : "University Hospital Of Brooklyn"
+      }
+    }, {
+      "data" : {
+        "id" : "3409",
+        "selected" : false,
+        "shared_name" : "Cardiovascular Systems Inc.",
+        "SUID" : 3409,
+        "name" : "Cardiovascular Systems Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3408",
+        "selected" : false,
+        "shared_name" : "Nihon Kohden America, Inc.",
+        "SUID" : 3408,
+        "name" : "Nihon Kohden America, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3407",
+        "selected" : false,
+        "shared_name" : "CareFusion Corporation",
+        "SUID" : 3407,
+        "name" : "CareFusion Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3406",
+        "selected" : false,
+        "shared_name" : "Crouse Health Hospital Inc",
+        "SUID" : 3406,
+        "name" : "Crouse Health Hospital Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3405",
+        "selected" : false,
+        "shared_name" : "LDR HOLDING CORPORATION",
+        "SUID" : 3405,
+        "name" : "LDR HOLDING CORPORATION"
+      }
+    }, {
+      "data" : {
+        "id" : "3404",
+        "selected" : false,
+        "shared_name" : "Medtronic Vascular, Inc.",
+        "SUID" : 3404,
+        "name" : "Medtronic Vascular, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3403",
+        "selected" : false,
+        "shared_name" : "Mercy Medical Center",
+        "SUID" : 3403,
+        "name" : "Mercy Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3402",
+        "selected" : false,
+        "shared_name" : "NORTH SHORE UNIVERSITY HOSPITAL HOMECARE",
+        "SUID" : 3402,
+        "name" : "NORTH SHORE UNIVERSITY HOSPITAL HOMECARE"
+      }
+    }, {
+      "data" : {
+        "id" : "3401",
+        "selected" : false,
+        "shared_name" : "Acorda Therapeutics, Inc",
+        "SUID" : 3401,
+        "name" : "Acorda Therapeutics, Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3400",
+        "selected" : false,
+        "shared_name" : "W. L. Gore & Associates, Inc.",
+        "SUID" : 3400,
+        "name" : "W. L. Gore & Associates, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3399",
+        "selected" : false,
+        "shared_name" : "UNIVERSITY OF ROCHESTER",
+        "SUID" : 3399,
+        "name" : "UNIVERSITY OF ROCHESTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3398",
+        "selected" : false,
+        "shared_name" : "Peter Brasseler Holdings, LLC",
+        "SUID" : 3398,
+        "name" : "Peter Brasseler Holdings, LLC"
+      }
+    }, {
+      "data" : {
+        "id" : "3397",
+        "selected" : false,
+        "shared_name" : "Thoratec Corporation",
+        "SUID" : 3397,
+        "name" : "Thoratec Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3396",
+        "selected" : false,
+        "shared_name" : "ZOLL Lifecor Corporation",
+        "SUID" : 3396,
+        "name" : "ZOLL Lifecor Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3395",
+        "selected" : false,
+        "shared_name" : "Medtronic Xomed, Inc.",
+        "SUID" : 3395,
+        "name" : "Medtronic Xomed, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3394",
+        "selected" : false,
+        "shared_name" : "Musculoskeletal Transplant Foundation Inc.",
+        "SUID" : 3394,
+        "name" : "Musculoskeletal Transplant Foundation Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3393",
+        "selected" : false,
+        "shared_name" : "Our Lady Of Lourdes Memorial Hospital, Inc  ",
+        "SUID" : 3393,
+        "name" : "Our Lady Of Lourdes Memorial Hospital, Inc  "
+      }
+    }, {
+      "data" : {
+        "id" : "3392",
+        "selected" : false,
+        "shared_name" : "New York Blood Center, Inc.",
+        "SUID" : 3392,
+        "name" : "New York Blood Center, Inc."
+      }
+    }, {
+      "data" : {
+        "id" : "3391",
+        "selected" : false,
+        "shared_name" : "Maimonides Medical Center",
+        "SUID" : 3391,
+        "name" : "Maimonides Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3390",
+        "selected" : false,
+        "shared_name" : "HILL-ROM HOLDINGS, INC",
+        "SUID" : 3390,
+        "name" : "HILL-ROM HOLDINGS, INC"
+      }
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "3799",
+        "source" : "3529",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 1982395,
+        "shared_interaction" : "1982395",
+        "shared_name" : "Allergan Inc. (1982395) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3799,
+        "name" : "Allergan Inc. (1982395) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3798",
+        "source" : "3529",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 47524.92,
+        "shared_interaction" : "47524.92",
+        "shared_name" : "Allergan Inc. (47524.92) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3798,
+        "name" : "Allergan Inc. (47524.92) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3797",
+        "source" : "3529",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 25092.4,
+        "shared_interaction" : "25092.4",
+        "shared_name" : "Allergan Inc. (25092.4) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3797,
+        "name" : "Allergan Inc. (25092.4) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3796",
+        "source" : "3529",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 23707.44,
+        "shared_interaction" : "23707.44",
+        "shared_name" : "Allergan Inc. (23707.44) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3796,
+        "name" : "Allergan Inc. (23707.44) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3795",
+        "source" : "3529",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 8016.96,
+        "shared_interaction" : "8016.96",
+        "shared_name" : "Allergan Inc. (8016.96) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3795,
+        "name" : "Allergan Inc. (8016.96) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3794",
+        "source" : "3529",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 7500,
+        "shared_interaction" : "7500",
+        "shared_name" : "Allergan Inc. (7500) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3794,
+        "name" : "Allergan Inc. (7500) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3793",
+        "source" : "3529",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 4205.12,
+        "shared_interaction" : "4205.12",
+        "shared_name" : "Allergan Inc. (4205.12) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3793,
+        "name" : "Allergan Inc. (4205.12) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3792",
+        "source" : "3529",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 3679.48,
+        "shared_interaction" : "3679.48",
+        "shared_name" : "Allergan Inc. (3679.48) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3792,
+        "name" : "Allergan Inc. (3679.48) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3791",
+        "source" : "3527",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 498000,
+        "shared_interaction" : "498000",
+        "shared_name" : "Pfizer Inc. (498000) Montefiore Medical Center",
+        "SUID" : 3791,
+        "name" : "Pfizer Inc. (498000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3790",
+        "source" : "3527",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 116909.31,
+        "shared_interaction" : "116909.31",
+        "shared_name" : "Pfizer Inc. (116909.31) New York City Health & Hospitals Corporation",
+        "SUID" : 3790,
+        "name" : "Pfizer Inc. (116909.31) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3789",
+        "source" : "3527",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 63802.01,
+        "shared_interaction" : "63802.01",
+        "shared_name" : "Pfizer Inc. (63802.01) New York City Health & Hospitals Corporation",
+        "SUID" : 3789,
+        "name" : "Pfizer Inc. (63802.01) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3788",
+        "source" : "3527",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 50000,
+        "shared_interaction" : "50000",
+        "shared_name" : "Pfizer Inc. (50000) Montefiore Medical Center",
+        "SUID" : 3788,
+        "name" : "Pfizer Inc. (50000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3787",
+        "source" : "3527",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 12500,
+        "shared_interaction" : "12500",
+        "shared_name" : "Pfizer Inc. (12500) New York City Health & Hospitals Corporation",
+        "SUID" : 3787,
+        "name" : "Pfizer Inc. (12500) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3786",
+        "source" : "3527",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 12500,
+        "shared_interaction" : "12500",
+        "shared_name" : "Pfizer Inc. (12500) New York City Health & Hospitals Corporation",
+        "SUID" : 3786,
+        "name" : "Pfizer Inc. (12500) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3785",
+        "source" : "3527",
+        "target" : "3463",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Pfizer Inc. (10000) North Shore University Hospital Homecare",
+        "SUID" : 3785,
+        "name" : "Pfizer Inc. (10000) North Shore University Hospital Homecare"
+      }
+    }, {
+      "data" : {
+        "id" : "3784",
+        "source" : "3527",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Pfizer Inc. (10000) The New York And Presbyterian Hospital",
+        "SUID" : 3784,
+        "name" : "Pfizer Inc. (10000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3783",
+        "source" : "3527",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Pfizer Inc. (10000) The Mount Sinai Hospital.",
+        "SUID" : 3783,
+        "name" : "Pfizer Inc. (10000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3782",
+        "source" : "3527",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Pfizer Inc. (10000) New York City Health & Hospitals Corporation",
+        "SUID" : 3782,
+        "name" : "Pfizer Inc. (10000) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3781",
+        "source" : "3527",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Pfizer Inc. (5000) The New York And Presbyterian Hospital",
+        "SUID" : 3781,
+        "name" : "Pfizer Inc. (5000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3780",
+        "source" : "3527",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Pfizer Inc. (5000) University Of Rochester",
+        "SUID" : 3780,
+        "name" : "Pfizer Inc. (5000) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3779",
+        "source" : "3527",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Pfizer Inc. (5000) The New York And Presbyterian Hospital",
+        "SUID" : 3779,
+        "name" : "Pfizer Inc. (5000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3778",
+        "source" : "3527",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 4530,
+        "shared_interaction" : "4530",
+        "shared_name" : "Pfizer Inc. (4530) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3778,
+        "name" : "Pfizer Inc. (4530) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3777",
+        "source" : "3527",
+        "target" : "3471",
+        "selected" : false,
+        "interaction": 3500,
+        "shared_interaction" : "3500",
+        "shared_name" : "Pfizer Inc. (3500) Nyu Hospitals Center",
+        "SUID" : 3777,
+        "name" : "Pfizer Inc. (3500) Nyu Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3776",
+        "source" : "3525",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 242359.89,
+        "shared_interaction" : "242359.89",
+        "shared_name" : "Olympus Corporation of the Americas (242359.89) Montefiore Medical Center",
+        "SUID" : 3776,
+        "name" : "Olympus Corporation of the Americas (242359.89) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3775",
+        "source" : "3525",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 100000,
+        "shared_interaction" : "100000",
+        "shared_name" : "Olympus Corporation of the Americas (100000) Montefiore Medical Center",
+        "SUID" : 3775,
+        "name" : "Olympus Corporation of the Americas (100000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3774",
+        "source" : "3524",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 213019.29,
+        "shared_interaction" : "213019.29",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (213019.29) The Mount Sinai Hospital.",
+        "SUID" : 3774,
+        "name" : "Siemens Medical Solutions USA, Inc. (213019.29) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3773",
+        "source" : "3524",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 178936.6,
+        "shared_interaction" : "178936.6",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (178936.6) The Mount Sinai Hospital.",
+        "SUID" : 3773,
+        "name" : "Siemens Medical Solutions USA, Inc. (178936.6) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3772",
+        "source" : "3524",
+        "target" : "3518",
+        "selected" : false,
+        "interaction": 113156.25,
+        "shared_interaction" : "113156.25",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (113156.25) The Mount Vernon Hospital",
+        "SUID" : 3772,
+        "name" : "Siemens Medical Solutions USA, Inc. (113156.25) The Mount Vernon Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3771",
+        "source" : "3524",
+        "target" : "3489",
+        "selected" : false,
+        "interaction": 25045.7,
+        "shared_interaction" : "25045.7",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (25045.7) Lenox Hill Hospital",
+        "SUID" : 3771,
+        "name" : "Siemens Medical Solutions USA, Inc. (25045.7) Lenox Hill Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3770",
+        "source" : "3524",
+        "target" : "3456",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (10000) Kingsbrook Jewish Medical Center",
+        "SUID" : 3770,
+        "name" : "Siemens Medical Solutions USA, Inc. (10000) Kingsbrook Jewish Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3769",
+        "source" : "3524",
+        "target" : "3495",
+        "selected" : false,
+        "interaction": 9853.19,
+        "shared_interaction" : "9853.19",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (9853.19) Sound Shore Medical Center",
+        "SUID" : 3769,
+        "name" : "Siemens Medical Solutions USA, Inc. (9853.19) Sound Shore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3768",
+        "source" : "3524",
+        "target" : "3471",
+        "selected" : false,
+        "interaction": 6161,
+        "shared_interaction" : "6161",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (6161) Nyu Hospitals Center",
+        "SUID" : 3768,
+        "name" : "Siemens Medical Solutions USA, Inc. (6161) Nyu Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3767",
+        "source" : "3524",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (5000) The Mount Sinai Hospital.",
+        "SUID" : 3767,
+        "name" : "Siemens Medical Solutions USA, Inc. (5000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3766",
+        "source" : "3524",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (5000) The Mount Sinai Hospital.",
+        "SUID" : 3766,
+        "name" : "Siemens Medical Solutions USA, Inc. (5000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3765",
+        "source" : "3524",
+        "target" : "3471",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (5000) Nyu Hospitals Center",
+        "SUID" : 3765,
+        "name" : "Siemens Medical Solutions USA, Inc. (5000) Nyu Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3764",
+        "source" : "3524",
+        "target" : "3425",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (5000) Ellis Hospital",
+        "SUID" : 3764,
+        "name" : "Siemens Medical Solutions USA, Inc. (5000) Ellis Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3763",
+        "source" : "3524",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 4456.15,
+        "shared_interaction" : "4456.15",
+        "shared_name" : "Siemens Medical Solutions USA, Inc. (4456.15) The Mount Sinai Hospital.",
+        "SUID" : 3763,
+        "name" : "Siemens Medical Solutions USA, Inc. (4456.15) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3762",
+        "source" : "3522",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 179667,
+        "shared_interaction" : "179667",
+        "shared_name" : "Salix Pharmaceuticals, Ltd (179667) Montefiore Medical Center",
+        "SUID" : 3762,
+        "name" : "Salix Pharmaceuticals, Ltd (179667) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3761",
+        "source" : "3521",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 135000,
+        "shared_interaction" : "135000",
+        "shared_name" : "Eli Lilly and Company (135000) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3761,
+        "name" : "Eli Lilly and Company (135000) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3760",
+        "source" : "3517",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 100000,
+        "shared_interaction" : "100000",
+        "shared_name" : "AbbVie, Inc. (100000) Montefiore Medical Center",
+        "SUID" : 3760,
+        "name" : "AbbVie, Inc. (100000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3759",
+        "source" : "3517",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 100000,
+        "shared_interaction" : "100000",
+        "shared_name" : "AbbVie, Inc. (100000) Montefiore Medical Center",
+        "SUID" : 3759,
+        "name" : "AbbVie, Inc. (100000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3758",
+        "source" : "3517",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 60000,
+        "shared_interaction" : "60000",
+        "shared_name" : "AbbVie, Inc. (60000) Montefiore Medical Center",
+        "SUID" : 3758,
+        "name" : "AbbVie, Inc. (60000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3757",
+        "source" : "3517",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "AbbVie, Inc. (25000) Montefiore Medical Center",
+        "SUID" : 3757,
+        "name" : "AbbVie, Inc. (25000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3756",
+        "source" : "3516",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 100000,
+        "shared_interaction" : "100000",
+        "shared_name" : "Novartis Pharmaceuticals Corporation (100000) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3756,
+        "name" : "Novartis Pharmaceuticals Corporation (100000) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3755",
+        "source" : "3515",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 100000,
+        "shared_interaction" : "100000",
+        "shared_name" : "Smith & Nephew, Inc. (100000) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3755,
+        "name" : "Smith & Nephew, Inc. (100000) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3754",
+        "source" : "3515",
+        "target" : "3495",
+        "selected" : false,
+        "interaction": 35575.35,
+        "shared_interaction" : "35575.35",
+        "shared_name" : "Smith & Nephew, Inc. (35575.35) Sound Shore Medical Center",
+        "SUID" : 3754,
+        "name" : "Smith & Nephew, Inc. (35575.35) Sound Shore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3753",
+        "source" : "3515",
+        "target" : "3518",
+        "selected" : false,
+        "interaction": 15318.55,
+        "shared_interaction" : "15318.55",
+        "shared_name" : "Smith & Nephew, Inc. (15318.55) The Mount Vernon Hospital",
+        "SUID" : 3753,
+        "name" : "Smith & Nephew, Inc. (15318.55) The Mount Vernon Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3752",
+        "source" : "3515",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Smith & Nephew, Inc. (10000) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3752,
+        "name" : "Smith & Nephew, Inc. (10000) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3751",
+        "source" : "3515",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Smith & Nephew, Inc. (10000) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3751,
+        "name" : "Smith & Nephew, Inc. (10000) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3750",
+        "source" : "3515",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 3451.5,
+        "shared_interaction" : "3451.5",
+        "shared_name" : "Smith & Nephew, Inc. (3451.5) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3750,
+        "name" : "Smith & Nephew, Inc. (3451.5) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3749",
+        "source" : "3513",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 95000,
+        "shared_interaction" : "95000",
+        "shared_name" : "Bayer HealthCare LLC (95000) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3749,
+        "name" : "Bayer HealthCare LLC (95000) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3748",
+        "source" : "3513",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "Bayer HealthCare LLC (25000) The Mount Sinai Hospital.",
+        "SUID" : 3748,
+        "name" : "Bayer HealthCare LLC (25000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3747",
+        "source" : "3513",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "Bayer HealthCare LLC (25000) Montefiore Medical Center",
+        "SUID" : 3747,
+        "name" : "Bayer HealthCare LLC (25000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3746",
+        "source" : "3513",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 8333.34,
+        "shared_interaction" : "8333.34",
+        "shared_name" : "Bayer HealthCare LLC (8333.34) The Mount Sinai Hospital.",
+        "SUID" : 3746,
+        "name" : "Bayer HealthCare LLC (8333.34) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3745",
+        "source" : "3512",
+        "target" : "3511",
+        "selected" : false,
+        "interaction": 93477.5,
+        "shared_interaction" : "93477.5",
+        "shared_name" : "Otsuka America Pharmaceutical, Inc. (93477.5) Winthrop University Hospital Association",
+        "SUID" : 3745,
+        "name" : "Otsuka America Pharmaceutical, Inc. (93477.5) Winthrop University Hospital Association"
+      }
+    }, {
+      "data" : {
+        "id" : "3744",
+        "source" : "3510",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 75000,
+        "shared_interaction" : "75000",
+        "shared_name" : "Valeant Pharmaceuticals International (75000) University Of Rochester",
+        "SUID" : 3744,
+        "name" : "Valeant Pharmaceuticals International (75000) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3743",
+        "source" : "3510",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 3500,
+        "shared_interaction" : "3500",
+        "shared_name" : "Valeant Pharmaceuticals International (3500) University Of Rochester",
+        "SUID" : 3743,
+        "name" : "Valeant Pharmaceuticals International (3500) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3742",
+        "source" : "3510",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 2762.5,
+        "shared_interaction" : "2762.5",
+        "shared_name" : "Valeant Pharmaceuticals International (2762.5) University Of Rochester",
+        "SUID" : 3742,
+        "name" : "Valeant Pharmaceuticals International (2762.5) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3741",
+        "source" : "3508",
+        "target" : "3507",
+        "selected" : false,
+        "interaction": 72000,
+        "shared_interaction" : "72000",
+        "shared_name" : "Carl Zeiss Meditec, Inc. (72000) New York Eye And Ear Infirmary",
+        "SUID" : 3741,
+        "name" : "Carl Zeiss Meditec, Inc. (72000) New York Eye And Ear Infirmary"
+      }
+    }, {
+      "data" : {
+        "id" : "3740",
+        "source" : "3508",
+        "target" : "3480",
+        "selected" : false,
+        "interaction": 21041.4,
+        "shared_interaction" : "21041.4",
+        "shared_name" : "Carl Zeiss Meditec, Inc. (21041.4) Kaleida Health",
+        "SUID" : 3740,
+        "name" : "Carl Zeiss Meditec, Inc. (21041.4) Kaleida Health"
+      }
+    }, {
+      "data" : {
+        "id" : "3739",
+        "source" : "3506",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 67420,
+        "shared_interaction" : "67420",
+        "shared_name" : "Edwards Lifesciences Corporation (67420) The Mount Sinai Hospital.",
+        "SUID" : 3739,
+        "name" : "Edwards Lifesciences Corporation (67420) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3738",
+        "source" : "3506",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 63349,
+        "shared_interaction" : "63349",
+        "shared_name" : "Edwards Lifesciences Corporation (63349) The Mount Sinai Hospital.",
+        "SUID" : 3738,
+        "name" : "Edwards Lifesciences Corporation (63349) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3737",
+        "source" : "3506",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Edwards Lifesciences Corporation (10000) The Mount Sinai Hospital.",
+        "SUID" : 3737,
+        "name" : "Edwards Lifesciences Corporation (10000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3736",
+        "source" : "3506",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Edwards Lifesciences Corporation (5000) The Mount Sinai Hospital.",
+        "SUID" : 3736,
+        "name" : "Edwards Lifesciences Corporation (5000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3735",
+        "source" : "3505",
+        "target" : "3504",
+        "selected" : false,
+        "interaction": 66400.6,
+        "shared_interaction" : "66400.6",
+        "shared_name" : "St. Jude Medical, Inc. (66400.6) Brookdale Hospital Medical Center",
+        "SUID" : 3735,
+        "name" : "St. Jude Medical, Inc. (66400.6) Brookdale Hospital Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3734",
+        "source" : "3505",
+        "target" : "3460",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "St. Jude Medical, Inc. (3000) Beth Israel Medical Center",
+        "SUID" : 3734,
+        "name" : "St. Jude Medical, Inc. (3000) Beth Israel Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3733",
+        "source" : "3503",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 63913.49,
+        "shared_interaction" : "63913.49",
+        "shared_name" : "KARLSTORZ Endoscopy-America (63913.49) Montefiore Medical Center",
+        "SUID" : 3733,
+        "name" : "KARLSTORZ Endoscopy-America (63913.49) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3732",
+        "source" : "3503",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 55200,
+        "shared_interaction" : "55200",
+        "shared_name" : "KARLSTORZ Endoscopy-America (55200) Montefiore Medical Center",
+        "SUID" : 3732,
+        "name" : "KARLSTORZ Endoscopy-America (55200) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3731",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 7350,
+        "shared_interaction" : "7350",
+        "shared_name" : "KARLSTORZ Endoscopy-America (7350) The New York And Presbyterian Hospital",
+        "SUID" : 3731,
+        "name" : "KARLSTORZ Endoscopy-America (7350) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3730",
+        "source" : "3503",
+        "target" : "3493",
+        "selected" : false,
+        "interaction": 5581,
+        "shared_interaction" : "5581",
+        "shared_name" : "KARLSTORZ Endoscopy-America (5581) Westchester County Health Care Corporation",
+        "SUID" : 3730,
+        "name" : "KARLSTORZ Endoscopy-America (5581) Westchester County Health Care Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3729",
+        "source" : "3503",
+        "target" : "3454",
+        "selected" : false,
+        "interaction": 5500,
+        "shared_interaction" : "5500",
+        "shared_name" : "KARLSTORZ Endoscopy-America (5500) Long Island Jewish Medical Center Homecare",
+        "SUID" : 3729,
+        "name" : "KARLSTORZ Endoscopy-America (5500) Long Island Jewish Medical Center Homecare"
+      }
+    }, {
+      "data" : {
+        "id" : "3728",
+        "source" : "3503",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "KARLSTORZ Endoscopy-America (5000) The Mount Sinai Hospital.",
+        "SUID" : 3728,
+        "name" : "KARLSTORZ Endoscopy-America (5000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3727",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "KARLSTORZ Endoscopy-America (5000) The New York And Presbyterian Hospital",
+        "SUID" : 3727,
+        "name" : "KARLSTORZ Endoscopy-America (5000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3726",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "KARLSTORZ Endoscopy-America (5000) The New York And Presbyterian Hospital",
+        "SUID" : 3726,
+        "name" : "KARLSTORZ Endoscopy-America (5000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3725",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 4776.35,
+        "shared_interaction" : "4776.35",
+        "shared_name" : "KARLSTORZ Endoscopy-America (4776.35) The New York And Presbyterian Hospital",
+        "SUID" : 3725,
+        "name" : "KARLSTORZ Endoscopy-America (4776.35) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3724",
+        "source" : "3503",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 4699.49,
+        "shared_interaction" : "4699.49",
+        "shared_name" : "KARLSTORZ Endoscopy-America (4699.49) New York City Health & Hospitals Corporation",
+        "SUID" : 3724,
+        "name" : "KARLSTORZ Endoscopy-America (4699.49) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3723",
+        "source" : "3503",
+        "target" : "3460",
+        "selected" : false,
+        "interaction": 4257.16,
+        "shared_interaction" : "4257.16",
+        "shared_name" : "KARLSTORZ Endoscopy-America (4257.16) Beth Israel Medical Center",
+        "SUID" : 3723,
+        "name" : "KARLSTORZ Endoscopy-America (4257.16) Beth Israel Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3722",
+        "source" : "3503",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 3966.38,
+        "shared_interaction" : "3966.38",
+        "shared_name" : "KARLSTORZ Endoscopy-America (3966.38) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3722,
+        "name" : "KARLSTORZ Endoscopy-America (3966.38) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3721",
+        "source" : "3503",
+        "target" : "3493",
+        "selected" : false,
+        "interaction": 3731,
+        "shared_interaction" : "3731",
+        "shared_name" : "KARLSTORZ Endoscopy-America (3731) Westchester County Health Care Corporation",
+        "SUID" : 3721,
+        "name" : "KARLSTORZ Endoscopy-America (3731) Westchester County Health Care Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3720",
+        "source" : "3503",
+        "target" : "3493",
+        "selected" : false,
+        "interaction": 3731,
+        "shared_interaction" : "3731",
+        "shared_name" : "KARLSTORZ Endoscopy-America (3731) Westchester County Health Care Corporation",
+        "SUID" : 3720,
+        "name" : "KARLSTORZ Endoscopy-America (3731) Westchester County Health Care Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3719",
+        "source" : "3503",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 3517.63,
+        "shared_interaction" : "3517.63",
+        "shared_name" : "KARLSTORZ Endoscopy-America (3517.63) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3719,
+        "name" : "KARLSTORZ Endoscopy-America (3517.63) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3718",
+        "source" : "3503",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 3517.57,
+        "shared_interaction" : "3517.57",
+        "shared_name" : "KARLSTORZ Endoscopy-America (3517.57) New York City Health & Hospitals Corporation",
+        "SUID" : 3718,
+        "name" : "KARLSTORZ Endoscopy-America (3517.57) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3717",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 3412.3,
+        "shared_interaction" : "3412.3",
+        "shared_name" : "KARLSTORZ Endoscopy-America (3412.3) The New York And Presbyterian Hospital",
+        "SUID" : 3717,
+        "name" : "KARLSTORZ Endoscopy-America (3412.3) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3716",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 3405.51,
+        "shared_interaction" : "3405.51",
+        "shared_name" : "KARLSTORZ Endoscopy-America (3405.51) The New York And Presbyterian Hospital",
+        "SUID" : 3716,
+        "name" : "KARLSTORZ Endoscopy-America (3405.51) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3715",
+        "source" : "3503",
+        "target" : "3460",
+        "selected" : false,
+        "interaction": 3059.65,
+        "shared_interaction" : "3059.65",
+        "shared_name" : "KARLSTORZ Endoscopy-America (3059.65) Beth Israel Medical Center",
+        "SUID" : 3715,
+        "name" : "KARLSTORZ Endoscopy-America (3059.65) Beth Israel Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3714",
+        "source" : "3503",
+        "target" : "3460",
+        "selected" : false,
+        "interaction": 2971.53,
+        "shared_interaction" : "2971.53",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2971.53) Beth Israel Medical Center",
+        "SUID" : 3714,
+        "name" : "KARLSTORZ Endoscopy-America (2971.53) Beth Israel Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3713",
+        "source" : "3503",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 2851.75,
+        "shared_interaction" : "2851.75",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2851.75) New York City Health & Hospitals Corporation",
+        "SUID" : 3713,
+        "name" : "KARLSTORZ Endoscopy-America (2851.75) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3712",
+        "source" : "3503",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 2821,
+        "shared_interaction" : "2821",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2821) New York City Health & Hospitals Corporation",
+        "SUID" : 3712,
+        "name" : "KARLSTORZ Endoscopy-America (2821) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3711",
+        "source" : "3503",
+        "target" : "3458",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) Albany Medical Center Hospital",
+        "SUID" : 3711,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3710",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital",
+        "SUID" : 3710,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3709",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital",
+        "SUID" : 3709,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3708",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital",
+        "SUID" : 3708,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3707",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital",
+        "SUID" : 3707,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3706",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital",
+        "SUID" : 3706,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3705",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital",
+        "SUID" : 3705,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3704",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital",
+        "SUID" : 3704,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3703",
+        "source" : "3503",
+        "target" : "3458",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) Albany Medical Center Hospital",
+        "SUID" : 3703,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3702",
+        "source" : "3503",
+        "target" : "3458",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) Albany Medical Center Hospital",
+        "SUID" : 3702,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3701",
+        "source" : "3503",
+        "target" : "3458",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) Albany Medical Center Hospital",
+        "SUID" : 3701,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3700",
+        "source" : "3503",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 2722.27,
+        "shared_interaction" : "2722.27",
+        "shared_name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital",
+        "SUID" : 3700,
+        "name" : "KARLSTORZ Endoscopy-America (2722.27) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3699",
+        "source" : "3502",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 60000,
+        "shared_interaction" : "60000",
+        "shared_name" : "Daiichi Sankyo Inc. (60000) Montefiore Medical Center",
+        "SUID" : 3699,
+        "name" : "Daiichi Sankyo Inc. (60000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3698",
+        "source" : "3502",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 60000,
+        "shared_interaction" : "60000",
+        "shared_name" : "Daiichi Sankyo Inc. (60000) Montefiore Medical Center",
+        "SUID" : 3698,
+        "name" : "Daiichi Sankyo Inc. (60000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3697",
+        "source" : "3501",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 50000,
+        "shared_interaction" : "50000",
+        "shared_name" : "Bristol-Myers Squibb Company (50000) Montefiore Medical Center",
+        "SUID" : 3697,
+        "name" : "Bristol-Myers Squibb Company (50000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3696",
+        "source" : "3501",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "Bristol-Myers Squibb Company (25000) Montefiore Medical Center",
+        "SUID" : 3696,
+        "name" : "Bristol-Myers Squibb Company (25000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3695",
+        "source" : "3501",
+        "target" : "3470",
+        "selected" : false,
+        "interaction": 15000,
+        "shared_interaction" : "15000",
+        "shared_name" : "Bristol-Myers Squibb Company (15000) NYU Hospitals Center",
+        "SUID" : 3695,
+        "name" : "Bristol-Myers Squibb Company (15000) NYU Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3694",
+        "source" : "3501",
+        "target" : "3470",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Bristol-Myers Squibb Company (10000) NYU Hospitals Center",
+        "SUID" : 3694,
+        "name" : "Bristol-Myers Squibb Company (10000) NYU Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3693",
+        "source" : "3500",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 45000,
+        "shared_interaction" : "45000",
+        "shared_name" : "Amgen Inc. (45000) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3693,
+        "name" : "Amgen Inc. (45000) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3692",
+        "source" : "3500",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 15000,
+        "shared_interaction" : "15000",
+        "shared_name" : "Amgen Inc. (15000) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3692,
+        "name" : "Amgen Inc. (15000) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3691",
+        "source" : "3500",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 10440,
+        "shared_interaction" : "10440",
+        "shared_name" : "Amgen Inc. (10440) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3691,
+        "name" : "Amgen Inc. (10440) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3690",
+        "source" : "3499",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 42000,
+        "shared_interaction" : "42000",
+        "shared_name" : "Roche Diagnostics Corporation (42000) The New York And Presbyterian Hospital",
+        "SUID" : 3690,
+        "name" : "Roche Diagnostics Corporation (42000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3689",
+        "source" : "3499",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 3053.68,
+        "shared_interaction" : "3053.68",
+        "shared_name" : "Roche Diagnostics Corporation (3053.68) The New York And Presbyterian Hospital",
+        "SUID" : 3689,
+        "name" : "Roche Diagnostics Corporation (3053.68) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3688",
+        "source" : "3499",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 3053.68,
+        "shared_interaction" : "3053.68",
+        "shared_name" : "Roche Diagnostics Corporation (3053.68) The New York And Presbyterian Hospital",
+        "SUID" : 3688,
+        "name" : "Roche Diagnostics Corporation (3053.68) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3687",
+        "source" : "3497",
+        "target" : "3496",
+        "selected" : false,
+        "interaction": 37500,
+        "shared_interaction" : "37500",
+        "shared_name" : "LSI SOLUTIONS INC (37500) University of Rochester",
+        "SUID" : 3687,
+        "name" : "LSI SOLUTIONS INC (37500) University of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3686",
+        "source" : "3494",
+        "target" : "3493",
+        "selected" : false,
+        "interaction": 31250,
+        "shared_interaction" : "31250",
+        "shared_name" : "Ethicon Inc. (31250) Westchester County Health Care Corporation",
+        "SUID" : 3686,
+        "name" : "Ethicon Inc. (31250) Westchester County Health Care Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3685",
+        "source" : "3494",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 15625,
+        "shared_interaction" : "15625",
+        "shared_name" : "Ethicon Inc. (15625) Montefiore Medical Center",
+        "SUID" : 3685,
+        "name" : "Ethicon Inc. (15625) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3684",
+        "source" : "3494",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 15625,
+        "shared_interaction" : "15625",
+        "shared_name" : "Ethicon Inc. (15625) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3684,
+        "name" : "Ethicon Inc. (15625) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3683",
+        "source" : "3494",
+        "target" : "3437",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Ethicon Inc. (5000) St. Francis Hospital",
+        "SUID" : 3683,
+        "name" : "Ethicon Inc. (5000) St. Francis Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3682",
+        "source" : "3494",
+        "target" : "3419",
+        "selected" : false,
+        "interaction": 4300,
+        "shared_interaction" : "4300",
+        "shared_name" : "Ethicon Inc. (4300) New York Hospital Medical Center Of Queens",
+        "SUID" : 3682,
+        "name" : "Ethicon Inc. (4300) New York Hospital Medical Center Of Queens"
+      }
+    }, {
+      "data" : {
+        "id" : "3681",
+        "source" : "3494",
+        "target" : "3511",
+        "selected" : false,
+        "interaction": 3974.85,
+        "shared_interaction" : "3974.85",
+        "shared_name" : "Ethicon Inc. (3974.85) Winthrop University Hospital Association",
+        "SUID" : 3681,
+        "name" : "Ethicon Inc. (3974.85) Winthrop University Hospital Association"
+      }
+    }, {
+      "data" : {
+        "id" : "3680",
+        "source" : "3492",
+        "target" : "3491",
+        "selected" : false,
+        "interaction": 30000,
+        "shared_interaction" : "30000",
+        "shared_name" : "Wilson Cook Medical Incorporated (30000) New York Methodist Hospital",
+        "SUID" : 3680,
+        "name" : "Wilson Cook Medical Incorporated (30000) New York Methodist Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3679",
+        "source" : "3492",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Wilson Cook Medical Incorporated (5000) Montefiore Medical Center",
+        "SUID" : 3679,
+        "name" : "Wilson Cook Medical Incorporated (5000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3678",
+        "source" : "3490",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 27052,
+        "shared_interaction" : "27052",
+        "shared_name" : "Janssen Pharmaceuticals, Inc (27052) Montefiore Medical Center",
+        "SUID" : 3678,
+        "name" : "Janssen Pharmaceuticals, Inc (27052) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3677",
+        "source" : "3490",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 26149,
+        "shared_interaction" : "26149",
+        "shared_name" : "Janssen Pharmaceuticals, Inc (26149) Montefiore Medical Center",
+        "SUID" : 3677,
+        "name" : "Janssen Pharmaceuticals, Inc (26149) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3676",
+        "source" : "3490",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "Janssen Pharmaceuticals, Inc (25000) The Mount Sinai Hospital.",
+        "SUID" : 3676,
+        "name" : "Janssen Pharmaceuticals, Inc (25000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3675",
+        "source" : "3490",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Janssen Pharmaceuticals, Inc (10000) The Mount Sinai Hospital.",
+        "SUID" : 3675,
+        "name" : "Janssen Pharmaceuticals, Inc (10000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3674",
+        "source" : "3490",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Janssen Pharmaceuticals, Inc (10000) The Mount Sinai Hospital.",
+        "SUID" : 3674,
+        "name" : "Janssen Pharmaceuticals, Inc (10000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3673",
+        "source" : "3490",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Janssen Pharmaceuticals, Inc (5000) The Mount Sinai Hospital.",
+        "SUID" : 3673,
+        "name" : "Janssen Pharmaceuticals, Inc (5000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3672",
+        "source" : "3488",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "Covidien Sales LLC (25000) Montefiore Medical Center",
+        "SUID" : 3672,
+        "name" : "Covidien Sales LLC (25000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3671",
+        "source" : "3488",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 18144.4,
+        "shared_interaction" : "18144.4",
+        "shared_name" : "Covidien Sales LLC (18144.4) University Of Rochester",
+        "SUID" : 3671,
+        "name" : "Covidien Sales LLC (18144.4) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3670",
+        "source" : "3488",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Covidien Sales LLC (5000) The New York And Presbyterian Hospital",
+        "SUID" : 3670,
+        "name" : "Covidien Sales LLC (5000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3669",
+        "source" : "3488",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Covidien Sales LLC (5000) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3669,
+        "name" : "Covidien Sales LLC (5000) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3668",
+        "source" : "3488",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 4300,
+        "shared_interaction" : "4300",
+        "shared_name" : "Covidien Sales LLC (4300) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3668,
+        "name" : "Covidien Sales LLC (4300) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3667",
+        "source" : "3488",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 4300,
+        "shared_interaction" : "4300",
+        "shared_name" : "Covidien Sales LLC (4300) Montefiore Medical Center",
+        "SUID" : 3667,
+        "name" : "Covidien Sales LLC (4300) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3666",
+        "source" : "3488",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 4300,
+        "shared_interaction" : "4300",
+        "shared_name" : "Covidien Sales LLC (4300) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3666,
+        "name" : "Covidien Sales LLC (4300) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3665",
+        "source" : "3488",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 3450,
+        "shared_interaction" : "3450",
+        "shared_name" : "Covidien Sales LLC (3450) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3665,
+        "name" : "Covidien Sales LLC (3450) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3664",
+        "source" : "3487",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "AstraZeneca Pharmaceuticals LP (25000) The Mount Sinai Hospital.",
+        "SUID" : 3664,
+        "name" : "AstraZeneca Pharmaceuticals LP (25000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3663",
+        "source" : "3487",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "AstraZeneca Pharmaceuticals LP (25000) The Mount Sinai Hospital.",
+        "SUID" : 3663,
+        "name" : "AstraZeneca Pharmaceuticals LP (25000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3662",
+        "source" : "3487",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "AstraZeneca Pharmaceuticals LP (5000) University Of Rochester",
+        "SUID" : 3662,
+        "name" : "AstraZeneca Pharmaceuticals LP (5000) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3661",
+        "source" : "3487",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "AstraZeneca Pharmaceuticals LP (5000) The Mount Sinai Hospital.",
+        "SUID" : 3661,
+        "name" : "AstraZeneca Pharmaceuticals LP (5000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3660",
+        "source" : "3487",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "AstraZeneca Pharmaceuticals LP (5000) Montefiore Medical Center",
+        "SUID" : 3660,
+        "name" : "AstraZeneca Pharmaceuticals LP (5000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3659",
+        "source" : "3487",
+        "target" : "3463",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "AstraZeneca Pharmaceuticals LP (3000) North Shore University Hospital Homecare",
+        "SUID" : 3659,
+        "name" : "AstraZeneca Pharmaceuticals LP (3000) North Shore University Hospital Homecare"
+      }
+    }, {
+      "data" : {
+        "id" : "3658",
+        "source" : "3486",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "Incyte Corporation (25000) The Mount Sinai Hospital.",
+        "SUID" : 3658,
+        "name" : "Incyte Corporation (25000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3657",
+        "source" : "3485",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 25000,
+        "shared_interaction" : "25000",
+        "shared_name" : "Millennium Pharmaceuticals, Inc. (25000) The Mount Sinai Hospital.",
+        "SUID" : 3657,
+        "name" : "Millennium Pharmaceuticals, Inc. (25000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3656",
+        "source" : "3484",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 24450,
+        "shared_interaction" : "24450",
+        "shared_name" : "Baxter Healthcare (24450) Montefiore Medical Center",
+        "SUID" : 3656,
+        "name" : "Baxter Healthcare (24450) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3655",
+        "source" : "3483",
+        "target" : "3482",
+        "selected" : false,
+        "interaction": 23658,
+        "shared_interaction" : "23658",
+        "shared_name" : "Ortho-Clinical Diagnostics, Inc. (23658) Rochester General Hospital",
+        "SUID" : 3655,
+        "name" : "Ortho-Clinical Diagnostics, Inc. (23658) Rochester General Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3654",
+        "source" : "3483",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 4900,
+        "shared_interaction" : "4900",
+        "shared_name" : "Ortho-Clinical Diagnostics, Inc. (4900) University Of Rochester",
+        "SUID" : 3654,
+        "name" : "Ortho-Clinical Diagnostics, Inc. (4900) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3653",
+        "source" : "3481",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 22500,
+        "shared_interaction" : "22500",
+        "shared_name" : "Stryker Corporation (22500) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3653,
+        "name" : "Stryker Corporation (22500) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3652",
+        "source" : "3481",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 14915.93,
+        "shared_interaction" : "14915.93",
+        "shared_name" : "Stryker Corporation (14915.93) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3652,
+        "name" : "Stryker Corporation (14915.93) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3651",
+        "source" : "3481",
+        "target" : "3446",
+        "selected" : false,
+        "interaction": 6535,
+        "shared_interaction" : "6535",
+        "shared_name" : "Stryker Corporation (6535) Suny Health Science Center At Syracuse",
+        "SUID" : 3651,
+        "name" : "Stryker Corporation (6535) Suny Health Science Center At Syracuse"
+      }
+    }, {
+      "data" : {
+        "id" : "3650",
+        "source" : "3481",
+        "target" : "3440",
+        "selected" : false,
+        "interaction": 6000,
+        "shared_interaction" : "6000",
+        "shared_name" : "Stryker Corporation (6000) LUTHERAN MEDICAL CENTER",
+        "SUID" : 3650,
+        "name" : "Stryker Corporation (6000) LUTHERAN MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3649",
+        "source" : "3481",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Stryker Corporation (5000) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3649,
+        "name" : "Stryker Corporation (5000) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3648",
+        "source" : "3481",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Stryker Corporation (5000) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3648,
+        "name" : "Stryker Corporation (5000) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3647",
+        "source" : "3481",
+        "target" : "3424",
+        "selected" : false,
+        "interaction": 4926.54,
+        "shared_interaction" : "4926.54",
+        "shared_name" : "Stryker Corporation (4926.54) BETH ISRAEL MEDICAL CENTER",
+        "SUID" : 3647,
+        "name" : "Stryker Corporation (4926.54) BETH ISRAEL MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3646",
+        "source" : "3481",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 4545,
+        "shared_interaction" : "4545",
+        "shared_name" : "Stryker Corporation (4545) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3646,
+        "name" : "Stryker Corporation (4545) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3645",
+        "source" : "3481",
+        "target" : "3402",
+        "selected" : false,
+        "interaction": 3150.45,
+        "shared_interaction" : "3150.45",
+        "shared_name" : "Stryker Corporation (3150.45) NORTH SHORE UNIVERSITY HOSPITAL HOMECARE",
+        "SUID" : 3645,
+        "name" : "Stryker Corporation (3150.45) NORTH SHORE UNIVERSITY HOSPITAL HOMECARE"
+      }
+    }, {
+      "data" : {
+        "id" : "3644",
+        "source" : "3481",
+        "target" : "3440",
+        "selected" : false,
+        "interaction": 3100,
+        "shared_interaction" : "3100",
+        "shared_name" : "Stryker Corporation (3100) LUTHERAN MEDICAL CENTER",
+        "SUID" : 3644,
+        "name" : "Stryker Corporation (3100) LUTHERAN MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3643",
+        "source" : "3481",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 2878.6,
+        "shared_interaction" : "2878.6",
+        "shared_name" : "Stryker Corporation (2878.6) University Of Rochester",
+        "SUID" : 3643,
+        "name" : "Stryker Corporation (2878.6) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3642",
+        "source" : "3481",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 2739.3,
+        "shared_interaction" : "2739.3",
+        "shared_name" : "Stryker Corporation (2739.3) New York City Health & Hospitals Corporation",
+        "SUID" : 3642,
+        "name" : "Stryker Corporation (2739.3) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3641",
+        "source" : "3479",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 20927.25,
+        "shared_interaction" : "20927.25",
+        "shared_name" : "Regeneron Pharmaceuticals, Inc. (20927.25) University Of Rochester",
+        "SUID" : 3641,
+        "name" : "Regeneron Pharmaceuticals, Inc. (20927.25) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3640",
+        "source" : "3478",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 20000,
+        "shared_interaction" : "20000",
+        "shared_name" : "Medline Industries, Inc. (20000) Montefiore Medical Center",
+        "SUID" : 3640,
+        "name" : "Medline Industries, Inc. (20000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3639",
+        "source" : "3478",
+        "target" : "3450",
+        "selected" : false,
+        "interaction": 7500,
+        "shared_interaction" : "7500",
+        "shared_name" : "Medline Industries, Inc. (7500) The Unity Hospital of Rochester",
+        "SUID" : 3639,
+        "name" : "Medline Industries, Inc. (7500) The Unity Hospital of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3638",
+        "source" : "3478",
+        "target" : "3491",
+        "selected" : false,
+        "interaction": 5500,
+        "shared_interaction" : "5500",
+        "shared_name" : "Medline Industries, Inc. (5500) New York Methodist Hospital",
+        "SUID" : 3638,
+        "name" : "Medline Industries, Inc. (5500) New York Methodist Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3637",
+        "source" : "3478",
+        "target" : "3456",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Medline Industries, Inc. (5000) Kingsbrook Jewish Medical Center",
+        "SUID" : 3637,
+        "name" : "Medline Industries, Inc. (5000) Kingsbrook Jewish Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3636",
+        "source" : "3478",
+        "target" : "3429",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Medline Industries, Inc. (5000) New York Hospital Medical Center of Queens",
+        "SUID" : 3636,
+        "name" : "Medline Industries, Inc. (5000) New York Hospital Medical Center of Queens"
+      }
+    }, {
+      "data" : {
+        "id" : "3635",
+        "source" : "3477",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 20000,
+        "shared_interaction" : "20000",
+        "shared_name" : "Medtronic Sofamor Danek USA, Inc. (20000) Montefiore Medical Center",
+        "SUID" : 3635,
+        "name" : "Medtronic Sofamor Danek USA, Inc. (20000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3634",
+        "source" : "3477",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "Medtronic Sofamor Danek USA, Inc. (3000) Montefiore Medical Center",
+        "SUID" : 3634,
+        "name" : "Medtronic Sofamor Danek USA, Inc. (3000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3633",
+        "source" : "3476",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 18750,
+        "shared_interaction" : "18750",
+        "shared_name" : "DePuy Synthes Sales Inc. (18750) The New York And Presbyterian Hospital",
+        "SUID" : 3633,
+        "name" : "DePuy Synthes Sales Inc. (18750) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3632",
+        "source" : "3476",
+        "target" : "3466",
+        "selected" : false,
+        "interaction": 11475,
+        "shared_interaction" : "11475",
+        "shared_name" : "DePuy Synthes Sales Inc. (11475) Nsuh @ Forest Hills",
+        "SUID" : 3632,
+        "name" : "DePuy Synthes Sales Inc. (11475) Nsuh @ Forest Hills"
+      }
+    }, {
+      "data" : {
+        "id" : "3631",
+        "source" : "3476",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "DePuy Synthes Sales Inc. (10000) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3631,
+        "name" : "DePuy Synthes Sales Inc. (10000) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3630",
+        "source" : "3476",
+        "target" : "3454",
+        "selected" : false,
+        "interaction": 9180,
+        "shared_interaction" : "9180",
+        "shared_name" : "DePuy Synthes Sales Inc. (9180) Long Island Jewish Medical Center Homecare",
+        "SUID" : 3630,
+        "name" : "DePuy Synthes Sales Inc. (9180) Long Island Jewish Medical Center Homecare"
+      }
+    }, {
+      "data" : {
+        "id" : "3629",
+        "source" : "3476",
+        "target" : "3453",
+        "selected" : false,
+        "interaction": 9180,
+        "shared_interaction" : "9180",
+        "shared_name" : "DePuy Synthes Sales Inc. (9180) Good Samaritan Hospital Medical Center",
+        "SUID" : 3629,
+        "name" : "DePuy Synthes Sales Inc. (9180) Good Samaritan Hospital Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3628",
+        "source" : "3476",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 7185,
+        "shared_interaction" : "7185",
+        "shared_name" : "DePuy Synthes Sales Inc. (7185) University Of Rochester",
+        "SUID" : 3628,
+        "name" : "DePuy Synthes Sales Inc. (7185) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3627",
+        "source" : "3476",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 6885,
+        "shared_interaction" : "6885",
+        "shared_name" : "DePuy Synthes Sales Inc. (6885) New York City Health & Hospitals Corporation",
+        "SUID" : 3627,
+        "name" : "DePuy Synthes Sales Inc. (6885) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3626",
+        "source" : "3476",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "DePuy Synthes Sales Inc. (5000) Montefiore Medical Center",
+        "SUID" : 3626,
+        "name" : "DePuy Synthes Sales Inc. (5000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3625",
+        "source" : "3476",
+        "target" : "3415",
+        "selected" : false,
+        "interaction": 3880.95,
+        "shared_interaction" : "3880.95",
+        "shared_name" : "DePuy Synthes Sales Inc. (3880.95) Nshs @ Plainview",
+        "SUID" : 3625,
+        "name" : "DePuy Synthes Sales Inc. (3880.95) Nshs @ Plainview"
+      }
+    }, {
+      "data" : {
+        "id" : "3624",
+        "source" : "3476",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 3400,
+        "shared_interaction" : "3400",
+        "shared_name" : "DePuy Synthes Sales Inc. (3400) Montefiore Medical Center",
+        "SUID" : 3624,
+        "name" : "DePuy Synthes Sales Inc. (3400) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3623",
+        "source" : "3476",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "DePuy Synthes Sales Inc. (3000) The Mount Sinai Hospital.",
+        "SUID" : 3623,
+        "name" : "DePuy Synthes Sales Inc. (3000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3622",
+        "source" : "3476",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "DePuy Synthes Sales Inc. (3000) The Mount Sinai Hospital.",
+        "SUID" : 3622,
+        "name" : "DePuy Synthes Sales Inc. (3000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3621",
+        "source" : "3475",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 18240,
+        "shared_interaction" : "18240",
+        "shared_name" : "NeuWave Medical, Inc. (18240) The Mount Sinai Hospital.",
+        "SUID" : 3621,
+        "name" : "NeuWave Medical, Inc. (18240) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3620",
+        "source" : "3475",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 13200,
+        "shared_interaction" : "13200",
+        "shared_name" : "NeuWave Medical, Inc. (13200) Montefiore Medical Center",
+        "SUID" : 3620,
+        "name" : "NeuWave Medical, Inc. (13200) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3619",
+        "source" : "3474",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 16000,
+        "shared_interaction" : "16000",
+        "shared_name" : "EMD Millipore Corporation (16000) The Mount Sinai Hospital.",
+        "SUID" : 3619,
+        "name" : "EMD Millipore Corporation (16000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3618",
+        "source" : "3474",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 11536,
+        "shared_interaction" : "11536",
+        "shared_name" : "EMD Millipore Corporation (11536) University Of Rochester",
+        "SUID" : 3618,
+        "name" : "EMD Millipore Corporation (11536) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3617",
+        "source" : "3474",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 10109.63,
+        "shared_interaction" : "10109.63",
+        "shared_name" : "EMD Millipore Corporation (10109.63) The Mount Sinai Hospital.",
+        "SUID" : 3617,
+        "name" : "EMD Millipore Corporation (10109.63) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3616",
+        "source" : "3474",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 9148.96,
+        "shared_interaction" : "9148.96",
+        "shared_name" : "EMD Millipore Corporation (9148.96) The Mount Sinai Hospital.",
+        "SUID" : 3616,
+        "name" : "EMD Millipore Corporation (9148.96) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3615",
+        "source" : "3474",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 7500,
+        "shared_interaction" : "7500",
+        "shared_name" : "EMD Millipore Corporation (7500) The Mount Sinai Hospital.",
+        "SUID" : 3615,
+        "name" : "EMD Millipore Corporation (7500) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3614",
+        "source" : "3474",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 7189.18,
+        "shared_interaction" : "7189.18",
+        "shared_name" : "EMD Millipore Corporation (7189.18) The Mount Sinai Hospital.",
+        "SUID" : 3614,
+        "name" : "EMD Millipore Corporation (7189.18) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3613",
+        "source" : "3474",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 5768,
+        "shared_interaction" : "5768",
+        "shared_name" : "EMD Millipore Corporation (5768) University Of Rochester",
+        "SUID" : 3613,
+        "name" : "EMD Millipore Corporation (5768) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3612",
+        "source" : "3474",
+        "target" : "3468",
+        "selected" : false,
+        "interaction": 3119.15,
+        "shared_interaction" : "3119.15",
+        "shared_name" : "EMD Millipore Corporation (3119.15) Roswell Park Cancer Institute, Inc",
+        "SUID" : 3612,
+        "name" : "EMD Millipore Corporation (3119.15) Roswell Park Cancer Institute, Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3611",
+        "source" : "3474",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "EMD Millipore Corporation (3000) The Mount Sinai Hospital.",
+        "SUID" : 3611,
+        "name" : "EMD Millipore Corporation (3000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3610",
+        "source" : "3473",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 15000,
+        "shared_interaction" : "15000",
+        "shared_name" : "Covidien LP (15000) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3610,
+        "name" : "Covidien LP (15000) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3609",
+        "source" : "3472",
+        "target" : "3471",
+        "selected" : false,
+        "interaction": 15000,
+        "shared_interaction" : "15000",
+        "shared_name" : "Owens & Minor Distribution, Inc. (15000) Nyu Hospitals Center",
+        "SUID" : 3609,
+        "name" : "Owens & Minor Distribution, Inc. (15000) Nyu Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3608",
+        "source" : "3472",
+        "target" : "3493",
+        "selected" : false,
+        "interaction": 13500,
+        "shared_interaction" : "13500",
+        "shared_name" : "Owens & Minor Distribution, Inc. (13500) Westchester County Health Care Corporation",
+        "SUID" : 3608,
+        "name" : "Owens & Minor Distribution, Inc. (13500) Westchester County Health Care Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3607",
+        "source" : "3472",
+        "target" : "3491",
+        "selected" : false,
+        "interaction": 7500,
+        "shared_interaction" : "7500",
+        "shared_name" : "Owens & Minor Distribution, Inc. (7500) New York Methodist Hospital",
+        "SUID" : 3607,
+        "name" : "Owens & Minor Distribution, Inc. (7500) New York Methodist Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3606",
+        "source" : "3472",
+        "target" : "3437",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Owens & Minor Distribution, Inc. (5000) St. Francis Hospital",
+        "SUID" : 3606,
+        "name" : "Owens & Minor Distribution, Inc. (5000) St. Francis Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3605",
+        "source" : "3469",
+        "target" : "3468",
+        "selected" : false,
+        "interaction": 12892.78,
+        "shared_interaction" : "12892.78",
+        "shared_name" : "Becton, Dickinson and Company (12892.78) Roswell Park Cancer Institute, Inc",
+        "SUID" : 3605,
+        "name" : "Becton, Dickinson and Company (12892.78) Roswell Park Cancer Institute, Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3604",
+        "source" : "3469",
+        "target" : "3468",
+        "selected" : false,
+        "interaction": 10506.22,
+        "shared_interaction" : "10506.22",
+        "shared_name" : "Becton, Dickinson and Company (10506.22) Roswell Park Cancer Institute, Inc",
+        "SUID" : 3604,
+        "name" : "Becton, Dickinson and Company (10506.22) Roswell Park Cancer Institute, Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3603",
+        "source" : "3469",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 3490.44,
+        "shared_interaction" : "3490.44",
+        "shared_name" : "Becton, Dickinson and Company (3490.44) The New York And Presbyterian Hospital",
+        "SUID" : 3603,
+        "name" : "Becton, Dickinson and Company (3490.44) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3602",
+        "source" : "3469",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 2924.57,
+        "shared_interaction" : "2924.57",
+        "shared_name" : "Becton, Dickinson and Company (2924.57) The Mount Sinai Hospital.",
+        "SUID" : 3602,
+        "name" : "Becton, Dickinson and Company (2924.57) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3601",
+        "source" : "3467",
+        "target" : "3511",
+        "selected" : false,
+        "interaction": 12000,
+        "shared_interaction" : "12000",
+        "shared_name" : "Boston Scientific Corporation (12000) Winthrop University Hospital Association",
+        "SUID" : 3601,
+        "name" : "Boston Scientific Corporation (12000) Winthrop University Hospital Association"
+      }
+    }, {
+      "data" : {
+        "id" : "3600",
+        "source" : "3467",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 7500,
+        "shared_interaction" : "7500",
+        "shared_name" : "Boston Scientific Corporation (7500) Montefiore Medical Center",
+        "SUID" : 3600,
+        "name" : "Boston Scientific Corporation (7500) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3599",
+        "source" : "3467",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Boston Scientific Corporation (5000) University Of Rochester",
+        "SUID" : 3599,
+        "name" : "Boston Scientific Corporation (5000) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3598",
+        "source" : "3465",
+        "target" : "3480",
+        "selected" : false,
+        "interaction": 10291.67,
+        "shared_interaction" : "10291.67",
+        "shared_name" : "Toshiba America Medical Systems, Inc. (10291.67) Kaleida Health",
+        "SUID" : 3598,
+        "name" : "Toshiba America Medical Systems, Inc. (10291.67) Kaleida Health"
+      }
+    }, {
+      "data" : {
+        "id" : "3597",
+        "source" : "3464",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Medtronic USA, Inc. (10000) The Mount Sinai Hospital.",
+        "SUID" : 3597,
+        "name" : "Medtronic USA, Inc. (10000) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3596",
+        "source" : "3462",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "LifeCell Corporation (10000) Montefiore Medical Center",
+        "SUID" : 3596,
+        "name" : "LifeCell Corporation (10000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3595",
+        "source" : "3461",
+        "target" : "3460",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Purdue Pharma L.P. (10000) Beth Israel Medical Center",
+        "SUID" : 3595,
+        "name" : "Purdue Pharma L.P. (10000) Beth Israel Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3594",
+        "source" : "3459",
+        "target" : "3458",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "Auxilium Pharmaceuticals, Inc. (10000) Albany Medical Center Hospital",
+        "SUID" : 3594,
+        "name" : "Auxilium Pharmaceuticals, Inc. (10000) Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3593",
+        "source" : "3459",
+        "target" : "3458",
+        "selected" : false,
+        "interaction": 4000,
+        "shared_interaction" : "4000",
+        "shared_name" : "Auxilium Pharmaceuticals, Inc. (4000) Albany Medical Center Hospital",
+        "SUID" : 3593,
+        "name" : "Auxilium Pharmaceuticals, Inc. (4000) Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3592",
+        "source" : "3457",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 10000,
+        "shared_interaction" : "10000",
+        "shared_name" : "C. R. Bard, Inc. & Subsidiaries (10000) The New York And Presbyterian Hospital",
+        "SUID" : 3592,
+        "name" : "C. R. Bard, Inc. & Subsidiaries (10000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3591",
+        "source" : "3457",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 5800,
+        "shared_interaction" : "5800",
+        "shared_name" : "C. R. Bard, Inc. & Subsidiaries (5800) The New York And Presbyterian Hospital",
+        "SUID" : 3591,
+        "name" : "C. R. Bard, Inc. & Subsidiaries (5800) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3590",
+        "source" : "3455",
+        "target" : "3463",
+        "selected" : false,
+        "interaction": 9549.06,
+        "shared_interaction" : "9549.06",
+        "shared_name" : "Luminex Corporation (9549.06) North Shore University Hospital Homecare",
+        "SUID" : 3590,
+        "name" : "Luminex Corporation (9549.06) North Shore University Hospital Homecare"
+      }
+    }, {
+      "data" : {
+        "id" : "3589",
+        "source" : "3452",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 8788.04,
+        "shared_interaction" : "8788.04",
+        "shared_name" : "GAC International LLC (8788.04) Montefiore Medical Center",
+        "SUID" : 3589,
+        "name" : "GAC International LLC (8788.04) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3588",
+        "source" : "3452",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 7818.3,
+        "shared_interaction" : "7818.3",
+        "shared_name" : "GAC International LLC (7818.3) Montefiore Medical Center",
+        "SUID" : 3588,
+        "name" : "GAC International LLC (7818.3) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3587",
+        "source" : "3452",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 7466.15,
+        "shared_interaction" : "7466.15",
+        "shared_name" : "GAC International LLC (7466.15) Montefiore Medical Center",
+        "SUID" : 3587,
+        "name" : "GAC International LLC (7466.15) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3586",
+        "source" : "3452",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 6899.95,
+        "shared_interaction" : "6899.95",
+        "shared_name" : "GAC International LLC (6899.95) Montefiore Medical Center",
+        "SUID" : 3586,
+        "name" : "GAC International LLC (6899.95) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3585",
+        "source" : "3452",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 6886.21,
+        "shared_interaction" : "6886.21",
+        "shared_name" : "GAC International LLC (6886.21) Montefiore Medical Center",
+        "SUID" : 3585,
+        "name" : "GAC International LLC (6886.21) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3584",
+        "source" : "3452",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 6301.8,
+        "shared_interaction" : "6301.8",
+        "shared_name" : "GAC International LLC (6301.8) Montefiore Medical Center",
+        "SUID" : 3584,
+        "name" : "GAC International LLC (6301.8) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3583",
+        "source" : "3452",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 5247.9,
+        "shared_interaction" : "5247.9",
+        "shared_name" : "GAC International LLC (5247.9) Montefiore Medical Center",
+        "SUID" : 3583,
+        "name" : "GAC International LLC (5247.9) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3582",
+        "source" : "3452",
+        "target" : "3423",
+        "selected" : false,
+        "interaction": 4790.25,
+        "shared_interaction" : "4790.25",
+        "shared_name" : "GAC International LLC (4790.25) Saint Barnabas Medical Center",
+        "SUID" : 3582,
+        "name" : "GAC International LLC (4790.25) Saint Barnabas Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3581",
+        "source" : "3452",
+        "target" : "3423",
+        "selected" : false,
+        "interaction": 4656.53,
+        "shared_interaction" : "4656.53",
+        "shared_name" : "GAC International LLC (4656.53) Saint Barnabas Medical Center",
+        "SUID" : 3581,
+        "name" : "GAC International LLC (4656.53) Saint Barnabas Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3580",
+        "source" : "3452",
+        "target" : "3423",
+        "selected" : false,
+        "interaction": 4482.84,
+        "shared_interaction" : "4482.84",
+        "shared_name" : "GAC International LLC (4482.84) Saint Barnabas Medical Center",
+        "SUID" : 3580,
+        "name" : "GAC International LLC (4482.84) Saint Barnabas Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3579",
+        "source" : "3452",
+        "target" : "3423",
+        "selected" : false,
+        "interaction": 3506.76,
+        "shared_interaction" : "3506.76",
+        "shared_name" : "GAC International LLC (3506.76) Saint Barnabas Medical Center",
+        "SUID" : 3579,
+        "name" : "GAC International LLC (3506.76) Saint Barnabas Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3578",
+        "source" : "3452",
+        "target" : "3423",
+        "selected" : false,
+        "interaction": 2776.2,
+        "shared_interaction" : "2776.2",
+        "shared_name" : "GAC International LLC (2776.2) Saint Barnabas Medical Center",
+        "SUID" : 3578,
+        "name" : "GAC International LLC (2776.2) Saint Barnabas Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3577",
+        "source" : "3451",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 8040,
+        "shared_interaction" : "8040",
+        "shared_name" : "Alexion Pharmaceuticals, Inc. (8040) The Mount Sinai Hospital.",
+        "SUID" : 3577,
+        "name" : "Alexion Pharmaceuticals, Inc. (8040) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3576",
+        "source" : "3449",
+        "target" : "3460",
+        "selected" : false,
+        "interaction": 7200,
+        "shared_interaction" : "7200",
+        "shared_name" : "CryoLife, Inc. (7200) Beth Israel Medical Center",
+        "SUID" : 3576,
+        "name" : "CryoLife, Inc. (7200) Beth Israel Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3575",
+        "source" : "3448",
+        "target" : "3504",
+        "selected" : false,
+        "interaction": 7134.18,
+        "shared_interaction" : "7134.18",
+        "shared_name" : "Biomet, Inc. (7134.18) Brookdale Hospital Medical Center",
+        "SUID" : 3575,
+        "name" : "Biomet, Inc. (7134.18) Brookdale Hospital Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3574",
+        "source" : "3447",
+        "target" : "3470",
+        "selected" : false,
+        "interaction": 6773.88,
+        "shared_interaction" : "6773.88",
+        "shared_name" : "Advanced Bionics, LLC (6773.88) NYU Hospitals Center",
+        "SUID" : 3574,
+        "name" : "Advanced Bionics, LLC (6773.88) NYU Hospitals Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3573",
+        "source" : "3445",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 6500,
+        "shared_interaction" : "6500",
+        "shared_name" : "Cook Incorporated (6500) Montefiore Medical Center",
+        "SUID" : 3573,
+        "name" : "Cook Incorporated (6500) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3572",
+        "source" : "3444",
+        "target" : "3443",
+        "selected" : false,
+        "interaction": 6461.73,
+        "shared_interaction" : "6461.73",
+        "shared_name" : "FUJIFILM Medical Systems USA, Inc. (6461.73) LENOX HILL HOSPITAL",
+        "SUID" : 3572,
+        "name" : "FUJIFILM Medical Systems USA, Inc. (6461.73) LENOX HILL HOSPITAL"
+      }
+    }, {
+      "data" : {
+        "id" : "3571",
+        "source" : "3442",
+        "target" : "3507",
+        "selected" : false,
+        "interaction": 6255,
+        "shared_interaction" : "6255",
+        "shared_name" : "Cochlear Ltd (6255) New York Eye And Ear Infirmary",
+        "SUID" : 3571,
+        "name" : "Cochlear Ltd (6255) New York Eye And Ear Infirmary"
+      }
+    }, {
+      "data" : {
+        "id" : "3570",
+        "source" : "3441",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 6085.08,
+        "shared_interaction" : "6085.08",
+        "shared_name" : "Wright Medical Technology, Inc. (6085.08) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3570,
+        "name" : "Wright Medical Technology, Inc. (6085.08) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3569",
+        "source" : "3441",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 5631.98,
+        "shared_interaction" : "5631.98",
+        "shared_name" : "Wright Medical Technology, Inc. (5631.98) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3569,
+        "name" : "Wright Medical Technology, Inc. (5631.98) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3568",
+        "source" : "3439",
+        "target" : "3458",
+        "selected" : false,
+        "interaction": 5960.2,
+        "shared_interaction" : "5960.2",
+        "shared_name" : "Bio-Rad Laboratories, Inc. (5960.2) Albany Medical Center Hospital",
+        "SUID" : 3568,
+        "name" : "Bio-Rad Laboratories, Inc. (5960.2) Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3567",
+        "source" : "3439",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Bio-Rad Laboratories, Inc. (5000) University Of Rochester",
+        "SUID" : 3567,
+        "name" : "Bio-Rad Laboratories, Inc. (5000) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3566",
+        "source" : "3439",
+        "target" : "3519",
+        "selected" : false,
+        "interaction": 4200,
+        "shared_interaction" : "4200",
+        "shared_name" : "Bio-Rad Laboratories, Inc. (4200) New York City Health & Hospitals Corporation",
+        "SUID" : 3566,
+        "name" : "Bio-Rad Laboratories, Inc. (4200) New York City Health & Hospitals Corporation"
+      }
+    }, {
+      "data" : {
+        "id" : "3565",
+        "source" : "3439",
+        "target" : "3458",
+        "selected" : false,
+        "interaction": 3329.8,
+        "shared_interaction" : "3329.8",
+        "shared_name" : "Bio-Rad Laboratories, Inc. (3329.8) Albany Medical Center Hospital",
+        "SUID" : 3565,
+        "name" : "Bio-Rad Laboratories, Inc. (3329.8) Albany Medical Center Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3564",
+        "source" : "3438",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 5500,
+        "shared_interaction" : "5500",
+        "shared_name" : "Shire US Holdings (5500) Montefiore Medical Center",
+        "SUID" : 3564,
+        "name" : "Shire US Holdings (5500) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3563",
+        "source" : "3436",
+        "target" : "3435",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Alkermes, Inc. (5000) Memorial Hospital For Cancer & Allied Diseases",
+        "SUID" : 3563,
+        "name" : "Alkermes, Inc. (5000) Memorial Hospital For Cancer & Allied Diseases"
+      }
+    }, {
+      "data" : {
+        "id" : "3562",
+        "source" : "3434",
+        "target" : "3433",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "GE Healthcare (5000) THE MOUNT SINAI HOSPITAL.",
+        "SUID" : 3562,
+        "name" : "GE Healthcare (5000) THE MOUNT SINAI HOSPITAL."
+      }
+    }, {
+      "data" : {
+        "id" : "3561",
+        "source" : "3434",
+        "target" : "3418",
+        "selected" : false,
+        "interaction": 4181,
+        "shared_interaction" : "4181",
+        "shared_name" : "GE Healthcare (4181) MAIMONIDES MEDICAL CENTER",
+        "SUID" : 3561,
+        "name" : "GE Healthcare (4181) MAIMONIDES MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3560",
+        "source" : "3432",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "United Therapeutics Corporation (5000) The New York And Presbyterian Hospital",
+        "SUID" : 3560,
+        "name" : "United Therapeutics Corporation (5000) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3559",
+        "source" : "3431",
+        "target" : "3437",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "B. Braun Medical Inc. (5000) St. Francis Hospital",
+        "SUID" : 3559,
+        "name" : "B. Braun Medical Inc. (5000) St. Francis Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3558",
+        "source" : "3430",
+        "target" : "3520",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Gilead Sciences Inc (5000) MONTEFIORE MEDICAL CENTER",
+        "SUID" : 3558,
+        "name" : "Gilead Sciences Inc (5000) MONTEFIORE MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3557",
+        "source" : "3430",
+        "target" : "3399",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "Gilead Sciences Inc (3000) UNIVERSITY OF ROCHESTER",
+        "SUID" : 3557,
+        "name" : "Gilead Sciences Inc (3000) UNIVERSITY OF ROCHESTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3556",
+        "source" : "3428",
+        "target" : "3514",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Integra LifeSciences Corporation (5000) New York Society For The Relief Of The Ruptured And Crippled Maintaini",
+        "SUID" : 3556,
+        "name" : "Integra LifeSciences Corporation (5000) New York Society For The Relief Of The Ruptured And Crippled Maintaini"
+      }
+    }, {
+      "data" : {
+        "id" : "3555",
+        "source" : "3427",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Cheetah Medical, Inc. (5000) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3555,
+        "name" : "Cheetah Medical, Inc. (5000) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3554",
+        "source" : "3426",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 5000,
+        "shared_interaction" : "5000",
+        "shared_name" : "Seattle Genetics, Inc. (5000) University Of Rochester",
+        "SUID" : 3554,
+        "name" : "Seattle Genetics, Inc. (5000) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3553",
+        "source" : "3422",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 4500,
+        "shared_interaction" : "4500",
+        "shared_name" : "Cardinal Health, Inc. (4500) Montefiore Medical Center",
+        "SUID" : 3553,
+        "name" : "Cardinal Health, Inc. (4500) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3552",
+        "source" : "3421",
+        "target" : "3420",
+        "selected" : false,
+        "interaction": 4468.27,
+        "shared_interaction" : "4468.27",
+        "shared_name" : "Richard-Allan Scientific Company (4468.27) New York Downtown Hospital",
+        "SUID" : 3552,
+        "name" : "Richard-Allan Scientific Company (4468.27) New York Downtown Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3551",
+        "source" : "3417",
+        "target" : "3498",
+        "selected" : false,
+        "interaction": 4140,
+        "shared_interaction" : "4140",
+        "shared_name" : "QIAGEN Sciences LLC (4140) The New York And Presbyterian Hospital",
+        "SUID" : 3551,
+        "name" : "QIAGEN Sciences LLC (4140) The New York And Presbyterian Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3550",
+        "source" : "3416",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 4000,
+        "shared_interaction" : "4000",
+        "shared_name" : "PENTAX of America, Inc. (4000) Montefiore Medical Center",
+        "SUID" : 3550,
+        "name" : "PENTAX of America, Inc. (4000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3549",
+        "source" : "3414",
+        "target" : "3413",
+        "selected" : false,
+        "interaction": 3866,
+        "shared_interaction" : "3866",
+        "shared_name" : "Spectrum Surgical Instruments Corp. (3866) Mercy Hospital Of Buffalo",
+        "SUID" : 3549,
+        "name" : "Spectrum Surgical Instruments Corp. (3866) Mercy Hospital Of Buffalo"
+      }
+    }, {
+      "data" : {
+        "id" : "3548",
+        "source" : "3412",
+        "target" : "3411",
+        "selected" : false,
+        "interaction": 3819,
+        "shared_interaction" : "3819",
+        "shared_name" : "ZOLL Circulation Inc (3819) St Peters Hospital",
+        "SUID" : 3548,
+        "name" : "ZOLL Circulation Inc (3819) St Peters Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3547",
+        "source" : "3412",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 3819,
+        "shared_interaction" : "3819",
+        "shared_name" : "ZOLL Circulation Inc (3819) The Mount Sinai Hospital.",
+        "SUID" : 3547,
+        "name" : "ZOLL Circulation Inc (3819) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3546",
+        "source" : "3412",
+        "target" : "3523",
+        "selected" : false,
+        "interaction": 3819,
+        "shared_interaction" : "3819",
+        "shared_name" : "ZOLL Circulation Inc (3819) The Mount Sinai Hospital.",
+        "SUID" : 3546,
+        "name" : "ZOLL Circulation Inc (3819) The Mount Sinai Hospital."
+      }
+    }, {
+      "data" : {
+        "id" : "3545",
+        "source" : "3412",
+        "target" : "3410",
+        "selected" : false,
+        "interaction": 3819,
+        "shared_interaction" : "3819",
+        "shared_name" : "ZOLL Circulation Inc (3819) University Hospital Of Brooklyn",
+        "SUID" : 3545,
+        "name" : "ZOLL Circulation Inc (3819) University Hospital Of Brooklyn"
+      }
+    }, {
+      "data" : {
+        "id" : "3544",
+        "source" : "3409",
+        "target" : "3437",
+        "selected" : false,
+        "interaction": 3500,
+        "shared_interaction" : "3500",
+        "shared_name" : "Cardiovascular Systems Inc. (3500) St. Francis Hospital",
+        "SUID" : 3544,
+        "name" : "Cardiovascular Systems Inc. (3500) St. Francis Hospital"
+      }
+    }, {
+      "data" : {
+        "id" : "3543",
+        "source" : "3408",
+        "target" : "3511",
+        "selected" : false,
+        "interaction": 3500,
+        "shared_interaction" : "3500",
+        "shared_name" : "Nihon Kohden America, Inc. (3500) Winthrop University Hospital Association",
+        "SUID" : 3543,
+        "name" : "Nihon Kohden America, Inc. (3500) Winthrop University Hospital Association"
+      }
+    }, {
+      "data" : {
+        "id" : "3542",
+        "source" : "3407",
+        "target" : "3406",
+        "selected" : false,
+        "interaction": 3488,
+        "shared_interaction" : "3488",
+        "shared_name" : "CareFusion Corporation (3488) Crouse Health Hospital Inc",
+        "SUID" : 3542,
+        "name" : "CareFusion Corporation (3488) Crouse Health Hospital Inc"
+      }
+    }, {
+      "data" : {
+        "id" : "3541",
+        "source" : "3405",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 3400,
+        "shared_interaction" : "3400",
+        "shared_name" : "LDR HOLDING CORPORATION (3400) Montefiore Medical Center",
+        "SUID" : 3541,
+        "name" : "LDR HOLDING CORPORATION (3400) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3540",
+        "source" : "3404",
+        "target" : "3403",
+        "selected" : false,
+        "interaction": 3375,
+        "shared_interaction" : "3375",
+        "shared_name" : "Medtronic Vascular, Inc. (3375) Mercy Medical Center",
+        "SUID" : 3540,
+        "name" : "Medtronic Vascular, Inc. (3375) Mercy Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3539",
+        "source" : "3404",
+        "target" : "3528",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "Medtronic Vascular, Inc. (3000) St Lukes Roosevelt Hospital Center",
+        "SUID" : 3539,
+        "name" : "Medtronic Vascular, Inc. (3000) St Lukes Roosevelt Hospital Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3538",
+        "source" : "3401",
+        "target" : "3413",
+        "selected" : false,
+        "interaction": 3120,
+        "shared_interaction" : "3120",
+        "shared_name" : "Acorda Therapeutics, Inc (3120) Mercy Hospital Of Buffalo",
+        "SUID" : 3538,
+        "name" : "Acorda Therapeutics, Inc (3120) Mercy Hospital Of Buffalo"
+      }
+    }, {
+      "data" : {
+        "id" : "3537",
+        "source" : "3400",
+        "target" : "3424",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "W. L. Gore & Associates, Inc. (3000) BETH ISRAEL MEDICAL CENTER",
+        "SUID" : 3537,
+        "name" : "W. L. Gore & Associates, Inc. (3000) BETH ISRAEL MEDICAL CENTER"
+      }
+    }, {
+      "data" : {
+        "id" : "3536",
+        "source" : "3398",
+        "target" : "3509",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "Peter Brasseler Holdings, LLC (3000) University Of Rochester",
+        "SUID" : 3536,
+        "name" : "Peter Brasseler Holdings, LLC (3000) University Of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3535",
+        "source" : "3397",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "Thoratec Corporation (3000) Montefiore Medical Center",
+        "SUID" : 3535,
+        "name" : "Thoratec Corporation (3000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3534",
+        "source" : "3396",
+        "target" : "3496",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "ZOLL Lifecor Corporation (3000) University of Rochester",
+        "SUID" : 3534,
+        "name" : "ZOLL Lifecor Corporation (3000) University of Rochester"
+      }
+    }, {
+      "data" : {
+        "id" : "3533",
+        "source" : "3395",
+        "target" : "3526",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "Medtronic Xomed, Inc. (3000) Montefiore Medical Center",
+        "SUID" : 3533,
+        "name" : "Medtronic Xomed, Inc. (3000) Montefiore Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3532",
+        "source" : "3394",
+        "target" : "3393",
+        "selected" : false,
+        "interaction": 3000,
+        "shared_interaction" : "3000",
+        "shared_name" : "Musculoskeletal Transplant Foundation Inc. (3000) Our Lady Of Lourdes Memorial Hospital, Inc  ",
+        "SUID" : 3532,
+        "name" : "Musculoskeletal Transplant Foundation Inc. (3000) Our Lady Of Lourdes Memorial Hospital, Inc  "
+      }
+    }, {
+      "data" : {
+        "id" : "3531",
+        "source" : "3392",
+        "target" : "3391",
+        "selected" : false,
+        "interaction": 2921.64,
+        "shared_interaction" : "2921.64",
+        "shared_name" : "New York Blood Center, Inc. (2921.64) Maimonides Medical Center",
+        "SUID" : 3531,
+        "name" : "New York Blood Center, Inc. (2921.64) Maimonides Medical Center"
+      }
+    }, {
+      "data" : {
+        "id" : "3530",
+        "source" : "3390",
+        "target" : "3406",
+        "selected" : false,
+        "interaction": 2725.55,
+        "shared_interaction" : "2725.55",
+        "shared_name" : "HILL-ROM HOLDINGS, INC (2725.55) Crouse Health Hospital Inc",
+        "SUID" : 3530,
+        "name" : "HILL-ROM HOLDINGS, INC (2725.55) Crouse Health Hospital Inc"
+      }
+    } ]
+  }
+}
