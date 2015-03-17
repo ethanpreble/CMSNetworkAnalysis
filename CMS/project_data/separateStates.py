@@ -12,7 +12,7 @@ timestr = time.strftime("%Y%m%d-%H%M%S")
 print timestr
 
 
-with open('Pharma_Doctor_Payment_data.csv', 'rb') as csvfile:
+with open('Hosptial_ID.csv', 'rb') as csvfile:
 	reader = csv.DictReader(csvfile)
 	fieldnames = reader.fieldnames
 	print fieldnames
@@ -34,6 +34,7 @@ with open('Pharma_Doctor_Payment_data.csv', 'rb') as csvfile:
 	for row in reader:
 		try:
 			stateWriters[states.index(row['Recipient_State'])].writerow(row)
+			#stateWriters[states.index(row['Recipient_State'])].writerow(row['Physician_Profile_ID'],row['Total_Amount_of_Payment_USDollars'].replace("$",""))
 		except Exception as e:
 			pass
 			#print i
@@ -46,5 +47,7 @@ with open('Pharma_Doctor_Payment_data.csv', 'rb') as csvfile:
 				
 
 
-		
+#Physician_Profile_ID,Physician_Name,Recipient_Primary_Business_Address,Recipient_Zip_Code,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Total_Amount_of_Payment_USDollars,Nature_of_Payment_or_Transfer_of_Value
+#27241,"Loc  Bao","4236 El Cajon Blvd  San Diego CA",92105,"Safco Dental Supply Co.",$128.00,"Gift"
+
 		

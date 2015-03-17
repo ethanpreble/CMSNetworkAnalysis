@@ -6,6 +6,16 @@ states = ['AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA','HI','ID','IL','IN',
 totalByUniv = {}
 totalByDocs = {}
 total={}
+totalUS=0.0
+totalDocs=0.0
+totalHospital=0.0
+
+hospitalSets = {}
+physicianSets = {}
+
+for s in states:
+	hospitalSets[s] = set()
+	physicianSets[s] = set()
 
 for s in states:
 	totalByUniv[s]=0
@@ -23,7 +33,7 @@ for s in states:
 #totalByUniv['fake'] += totalByUniv['fake']
 #print totalByUniv['fake']
 
-with open('Pharma_Doctor_Payment_data_no_dollar_sign.csv', 'rb') as csvfile:
+with open('Project_Data_with_ID_no_dollar_sign.csv', 'rb') as csvfile:
 	reader = csv.DictReader(csvfile)
 	fieldnames = reader.fieldnames
 	print fieldnames
@@ -31,11 +41,24 @@ with open('Pharma_Doctor_Payment_data_no_dollar_sign.csv', 'rb') as csvfile:
 	i=0
 	for row in reader:
 		try:
-			if(row['Physician_Profile_ID']==''):
-				totalByUniv[row['Recipient_State']] += float(row['Total_Amount_of_Payment_USDollars'])
-			else:
+			#if(row['Physician_Profile_ID']==''):
+			#	totalByUniv[row['Recipient_State']] += float(row['Total_Amount_of_Payment_USDollars'])
+			#else:
+			#	totalByDocs[row['Recipient_State']] += float(row['Total_Amount_of_Payment_USDollars'])
+			if(row['Physician_Profile_ID']!=''):
 				totalByDocs[row['Recipient_State']] += float(row['Total_Amount_of_Payment_USDollars'])
+				totalDocs+=float(row['Total_Amount_of_Payment_USDollars'])
+			if(row['Teaching_Hospital_ID']!=''):
+				totalByUniv[row['Recipient_State']] += float(row['Total_Amount_of_Payment_USDollars'])	
+				totalHospital+=float(row['Total_Amount_of_Payment_USDollars'])
 			total[row['Recipient_State']] += float(row['Total_Amount_of_Payment_USDollars'])
+			totalUS+=float(row['Total_Amount_of_Payment_USDollars'])
+		
+			hospitalSets[row['Recipient_State']].add(row['Teaching_Hospital_ID'])
+			physicianSets[row['Recipient_State']].add(row['Physician_Profile_ID'])
+
+			
+			
 		except Exception as e:
 			pass
 		i +=1
@@ -45,9 +68,12 @@ with open('Pharma_Doctor_Payment_data_no_dollar_sign.csv', 'rb') as csvfile:
 			
 			
 			
-print totalByUniv
-print totalByDocs
-print total
+#print totalByUniv
+#print totalByDocs
+#print total
+print totalUS
+print totalDocs
+print totalHospital
 
 
 f = open('TotalsByState_univ.txt', 'wb')
@@ -65,6 +91,24 @@ for key in total:
 	f.write(key+','+str(total[key])+'\n')
 f.close()
 
+f = open('TotalHospitalOverNumHospitalsByState.txt', 'wb')
+for key in totalByUniv:
+	val = totalByUniv[key]/len(hospitalSets[key])
+	f.write(key+','+str(val)+'\n')
+f.close()
+
+f = open('TotalPhysicianOverNumPhysiciansByState.txt', 'wb')
+for key in totalByDocs:
+	val = totalByDocs[key]/len(physicianSets[key])
+	f.write(key+','+str(val)+'\n')
+f.close()
+
+
+for key in hospitalSets:
+	print len(hospitalSets[key])
+print "\n"
+for key in physicianSets:
+	print len(physicianSets[key])
 
 #with open('TotalsByState_univ.csv', 'wb') as f1:
 #	with open('TotalsByState_doc.csv', 'wb') as f2:
